@@ -1,35 +1,37 @@
 ------------------
 System Information
 ------------------
-      Time of this report: 5/24/2018, 19:51:46
-             Machine name: ALUNO_05
-               Machine Id: {23853F3D-4F43-460F-9B30-C8A6C4689EFE}
-         Operating System: Windows 10 Pro 64-bit (10.0, Build 16299) (16299.rs3_release_svc_escrow.180502-1908)
-                 Language: Portuguese (Regional Setting: Portuguese)
-      System Manufacturer: Dell Inc.
-             System Model: OptiPlex 9010
-                     BIOS: BIOS Date: 09/19/12 10:43:37 Ver: A08.00 
-                Processor: Intel(R) Core(TM) i5-3570 CPU @ 3.40GHz (4 CPUs), ~3.4GHz
+      Time of this report: 6/1/2018, 16:57:45
+             Machine name: DESKTOP-6JPGS63
+               Machine Id: {CA1D6F2C-1177-432E-9CD6-B5BC159A0555}
+         Operating System: Windows 10 Home 64-bit (10.0, Build 16299) (16299.rs3_release_svc_escrow.180502-1908)
+                 Language: English (Regional Setting: English)
+      System Manufacturer: ASUSTeK COMPUTER INC.
+             System Model: N56VJ
+                     BIOS: N56VJ.203
+                Processor: Intel(R) Core(TM) i7-3630QM CPU @ 2.40GHz (8 CPUs), ~2.4GHz
                    Memory: 8192MB RAM
-      Available OS Memory: 8146MB RAM
-                Page File: 6774MB used, 9564MB available
+      Available OS Memory: 8078MB RAM
+                Page File: 6961MB used, 3513MB available
               Windows Dir: C:\WINDOWS
           DirectX Version: DirectX 12
       DX Setup Parameters: Not found
          User DPI Setting: 96 DPI (100 percent)
-       System DPI Setting: 96 DPI (100 percent)
+       System DPI Setting: 120 DPI (125 percent)
           DWM DPI Scaling: Disabled
-                 Miracast: Not Available
-Microsoft Graphics Hybrid: Not Supported
+                 Miracast: Available, with HDCP
+Microsoft Graphics Hybrid: Supported
            DxDiag Version: 10.00.16299.0015 64bit Unicode
-  DxDiag Previously: Crashed in DirectInput (stage 1). Re-running DxDiag with "dontskip" command line parameter or choosing not to bypass information gathering when prompted might result in DxDiag successfully obtaining this information
+  DxDiag Previously: Crashed in system information (stage 3) & Direct3D (stage 2). Re-running DxDiag with "dontskip" command line parameter or choosing not to bypass information gathering when prompted might result in DxDiag successfully obtaining this information
 
 ------------
 DxDiag Notes
 ------------
       Display Tab 1: No problems found.
+      Display Tab 2: No problems found.
         Sound Tab 1: No problems found.
-          Input Tab: 
+        Sound Tab 2: No problems found.
+          Input Tab: No problems found.
 
 --------------------
 DirectX Debug Levels
@@ -45,101 +47,165 @@ DirectShow:  0/6 (retail)
 ---------------
 Display Devices
 ---------------
-           Card name: AMD Radeon HD 7000 series
-        Manufacturer: Advanced Micro Devices, Inc.
-           Chip type: AMD Radeon Graphics Processor (0x6778)
-            DAC type: Internal DAC(400MHz)
+           Card name: Intel(R) HD Graphics 4000
+        Manufacturer: Intel Corporation
+           Chip type: Intel(R) HD Graphics Family
+            DAC type: Internal
          Device Type: Full Device
-          Device Key: Enum\PCI\VEN_1002&DEV_6778&SUBSYS_21201028&REV_00
+          Device Key: Enum\PCI\VEN_8086&DEV_0166&SUBSYS_14771043&REV_09
        Device Status: 0180200A [DN_DRIVER_LOADED|DN_STARTED|DN_DISABLEABLE|DN_NT_ENUMERATOR|DN_NT_DRIVER] 
  Device Problem Code: No Problem
  Driver Problem Code: Unknown
-      Display Memory: 4848 MB
-    Dedicated Memory: 1008 MB
-       Shared Memory: 3840 MB
+      Display Memory: Unknown
+    Dedicated Memory: n/a
+       Shared Memory: n/a
         Current Mode: 1920 x 1080 (32 bit) (60Hz)
          HDR Support: Not Supported
     Display Topology: Internal
- Display Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709
-     Color Primaries: Red(0.630383,0.350109), Green(0.340344,0.635266), Blue(0.150891,0.050305), White Point(0.313977,0.329602)
-   Display Luminance: Min Luminance = 0.500000, Max Luminance = 270.000000, MaxFullFrameLuminance = 270.000000
+ Display Color Space: Unknown
+     Color Primaries: Unknown
+   Display Luminance: Unknown
         Monitor Name: Generic PnP Monitor
-       Monitor Model: Acer V246HQL
-          Monitor Id: ACR0424
-         Native Mode: 1920 x 1080(p) (60.000Hz)
-         Output Type: DVI
+       Monitor Model: 
+          Monitor Id: 
+         Native Mode: 
+         Output Type: 
 Monitor Advanced Color Capabilities: None
 Display Pixel Format: DISPLAYCONFIG_PIXELFORMAT_32BPP
-         Driver Name: aticfx64.dll,aticfx64.dll,aticfx64.dll,amdxc64.dll
- Driver File Version: 8.17.0010.1404 (English)
-      Driver Version: 15.201.1151.1008
-         DDI Version: 11.2
-      Feature Levels: 11_0,10_1,10_0,9_3,9_2,9_1
+         Driver Name: igdumdim64.dll,igd10iumd64.dll,igd10iumd64.dll
+ Driver File Version: Unknown (Unknown)
+      Driver Version: 10.18.10.4358
+         DDI Version: Unknown
+      Feature Levels: Unknown
         Driver Model: WDDM 1.3
  Graphics Preemption: DMA
-  Compute Preemption: DMA
-            Miracast: Not Supported
- Hybrid Graphics GPU: Not Supported
+  Compute Preemption: Thread group
+            Miracast: Supported
+ Hybrid Graphics GPU: Integrated
       Power P-states: Not Supported
    Driver Attributes: Final Retail
-    Driver Date/Size: 03/11/2015 21:00:00, 1479808 bytes
-         WHQL Logo'd: Yes
-     WHQL Date Stamp: Unknown
-   Device Identifier: {D7B71EE2-2438-11CF-E476-2A01BEC2C535}
-           Vendor ID: 0x1002
-           Device ID: 0x6778
-           SubSys ID: 0x21201028
-         Revision ID: 0x0000
-  Driver Strong Name: oem32.inf:cb0ae41477498047:ati2mtag_NI:15.201.1151.1008:pci\ven_1002&dev_6778
+    Driver Date/Size: Unknown, 0 bytes
+         WHQL Logo'd: n/a
+     WHQL Date Stamp: n/a
+   Device Identifier: Unknown
+           Vendor ID: 0x8086
+           Device ID: 0x0166
+           SubSys ID: 0x14771043
+         Revision ID: 0x0009
+  Driver Strong Name: oem4.inf:5f63e5341859ec8c:iIVBM_w10:10.18.10.4358:pci\ven_8086&dev_0166
       Rank Of Driver: 00D12001
-         Video Accel: ModeMPEG2_A ModeMPEG2_C 
-         DXVA2 Modes: DXVA2_ModeMPEG2_VLD  DXVA2_ModeMPEG2_IDCT  DXVA2_ModeH264_VLD_NoFGT  DXVA2_ModeH264_VLD_Stereo_Progressive_NoFGT  DXVA2_ModeH264_VLD_Stereo_NoFGT  DXVA2_ModeVC1_VLD  DXVA2_ModeMPEG4pt2_VLD_AdvSimple_NoGMC  
-   Deinterlace Caps: {6E8329FF-B642-418B-BCF0-BCB6591E255F}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,1) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
-                     {6E8329FF-B642-418B-BCF0-BCB6591E255F}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,1) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {3C5323C1-6FB7-44F5-9081-056BF2EE449D}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,2) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
-                     {552C0DAD-CCBC-420B-83C8-74943CF9F1A6}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,2) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
-                     {6E8329FF-B642-418B-BCF0-BCB6591E255F}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,1) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-        D3D9 Overlay: Not Supported
-             DXVA-HD: Not Supported
-        DDraw Status: Enabled
-          D3D Status: Enabled
-          AGP Status: Enabled
-       MPO MaxPlanes: 1
-            MPO Caps: Not Supported
-         MPO Stretch: Not Supported
-     MPO Media Hints: Not Supported
-         MPO Formats: Not Supported
-    PanelFitter Caps: Not Supported
- PanelFitter Stretch: Not Supported
+         Video Accel: Unknown
+         DXVA2 Modes: Unknown
+      Deinterlace Caps: n/a
+        D3D9 Overlay: Unknown
+             DXVA-HD: Unknown
+        DDraw Status: Disabled
+          D3D Status: Not Available
+          AGP Status: Not Available
+       MPO MaxPlanes: Unknown
+            MPO Caps: Unknown
+         MPO Stretch: Unknown
+     MPO Media Hints: Unknown
+         MPO Formats: Unknown
+    PanelFitter Caps: Unknown
+ PanelFitter Stretch: Unknown
+
+           Card name: NVIDIA GeForce GT 635M
+        Manufacturer: NVIDIA
+           Chip type: GeForce GT 635M
+            DAC type: Integrated RAMDAC
+         Device Type: Full Device
+          Device Key: Enum\PCI\VEN_10DE&DEV_0DE3&SUBSYS_14771043&REV_A1
+       Device Status: 0180200A [DN_DRIVER_LOADED|DN_STARTED|DN_DISABLEABLE|DN_NT_ENUMERATOR|DN_NT_DRIVER] 
+ Device Problem Code: No Problem
+ Driver Problem Code: Unknown
+      Display Memory: Unknown
+    Dedicated Memory: n/a
+       Shared Memory: n/a
+        Current Mode: Unknown
+         HDR Support: Unknown
+    Display Topology: Unknown
+ Display Color Space: Unknown
+     Color Primaries: Unknown
+   Display Luminance: Unknown
+         Driver Name: C:\WINDOWS\System32\DriverStore\FileRepository\nvami.inf_amd64_1474122a0ce2f241\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nvami.inf_amd64_1474122a0ce2f241\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nvami.inf_amd64_1474122a0ce2f241\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nvami.inf_amd64_1474122a0ce2f241\nvldumdx.dll
+ Driver File Version: Unknown (Unknown)
+      Driver Version: 23.21.13.9135
+         DDI Version: Unknown
+      Feature Levels: Unknown
+        Driver Model: WDDM 2.3
+ Graphics Preemption: DMA
+  Compute Preemption: DMA
+            Miracast: Not Supported by Graphics driver
+ Hybrid Graphics GPU: Discrete
+      Power P-states: Not Supported
+   Driver Attributes: Final Retail
+    Driver Date/Size: Unknown, 0 bytes
+         WHQL Logo'd: n/a
+     WHQL Date Stamp: n/a
+   Device Identifier: Unknown
+           Vendor ID: 0x10DE
+           Device ID: 0x0DE3
+           SubSys ID: 0x14771043
+         Revision ID: 0x00A1
+  Driver Strong Name: oem101.inf:0f066de338e39890:Section032:23.21.13.9135:pci\ven_10de&dev_0de3&subsys_14771043
+      Rank Of Driver: 00D10001
+         Video Accel: Unknown
+         DXVA2 Modes: Unknown
+      Deinterlace Caps: n/a
+        D3D9 Overlay: Unknown
+             DXVA-HD: Unknown
+        DDraw Status: Disabled
+          D3D Status: Not Available
+          AGP Status: Not Available
+       MPO MaxPlanes: Unknown
+            MPO Caps: Unknown
+         MPO Stretch: Unknown
+     MPO Media Hints: Unknown
+         MPO Formats: Unknown
+    PanelFitter Caps: Unknown
+ PanelFitter Stretch: Unknown
 
 -------------
 Sound Devices
 -------------
-            Description: Alto-falantes (Realtek High Definition Audio)
+            Description: Speakers (Realtek High Definition Audio)
  Default Sound Playback: Yes
  Default Voice Playback: Yes
-            Hardware ID: HDAUDIO\FUNC_01&VEN_10EC&DEV_0269&SUBSYS_1028052C&REV_1001
+            Hardware ID: HDAUDIO\FUNC_01&VEN_10EC&DEV_0663&SUBSYS_10431477&REV_1000
         Manufacturer ID: 1
              Product ID: 100
                    Type: WDM
-            Driver Name: RTDVHD64.sys
-         Driver Version: 6.00.0001.6070 (English)
+            Driver Name: RTKVHD64.sys
+         Driver Version: 6.00.0001.6710 (English)
       Driver Attributes: Final Retail
             WHQL Logo'd: Yes
-          Date and Size: 30/04/2015 00:00:00, 2540800 bytes
+          Date and Size: 8/21/2012 12:00:00 AM, 4106256 bytes
+            Other Files: 
+        Driver Provider: Realtek Semiconductor Corp.
+         HW Accel Level: Basic
+              Cap Flags: 0xF1F
+    Min/Max Sample Rate: 100, 200000
+Static/Strm HW Mix Bufs: 1, 0
+ Static/Strm HW 3D Bufs: 0, 0
+              HW Memory: 0
+       Voice Management: No
+ EAX(tm) 2.0 Listen/Src: No, No
+   I3DL2(tm) Listen/Src: No, No
+Sensaura(tm) ZoomFX(tm): No
+
+            Description: Realtek Digital Output (Realtek High Definition Audio)
+ Default Sound Playback: No
+ Default Voice Playback: No
+            Hardware ID: HDAUDIO\FUNC_01&VEN_10EC&DEV_0663&SUBSYS_10431477&REV_1000
+        Manufacturer ID: 1
+             Product ID: 100
+                   Type: WDM
+            Driver Name: RTKVHD64.sys
+         Driver Version: 6.00.0001.6710 (English)
+      Driver Attributes: Final Retail
+            WHQL Logo'd: Yes
+          Date and Size: 8/21/2012 12:00:00 AM, 4106256 bytes
             Other Files: 
         Driver Provider: Realtek Semiconductor Corp.
          HW Accel Level: Basic
@@ -156,6 +222,16 @@ Sensaura(tm) ZoomFX(tm): No
 ---------------------
 Sound Capture Devices
 ---------------------
+            Description: Microphone (Realtek High Definition Audio)
+  Default Sound Capture: Yes
+  Default Voice Capture: Yes
+            Driver Name: RTKVHD64.sys
+         Driver Version: 6.00.0001.6710 (English)
+      Driver Attributes: Final Retail
+          Date and Size: 8/21/2012 07:34:12, 4106256 bytes
+              Cap Flags: 0x1
+           Format Flags: 0xFFFFF
+
 ---------------------
 Video Capture Devices
 Number of Devices: 0
@@ -163,11 +239,50 @@ Number of Devices: 0
 -------------------
 DirectInput Devices
 -------------------
+      Device Name: Mouse
+         Attached: 1
+    Controller ID: n/a
+Vendor/Product ID: n/a
+        FF Driver: n/a
+
+      Device Name: Keyboard
+         Attached: 1
+    Controller ID: n/a
+Vendor/Product ID: n/a
+        FF Driver: n/a
+
+      Device Name: ASUS Wireless Radio Control
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: n/a
+        FF Driver: n/a
+
 Poll w/ Interrupt: No
 
 -----------
 USB Devices
 -----------
++ USB Root Hub (USB 3.0)
+| Vendor/Product ID: 0x8086, 0x1E31
+| Matching Device ID: USB\ROOT_HUB30
+| Service: USBHUB3
+| Driver: USBHUB3.SYS, 3/13/2018 03:54:16, 555936 bytes
+| 
++-+ USB Input Device
+| | Vendor/Product ID: 0x1D57, 0x0005
+| | Location: Port_#0003.Hub_#0003
+| | Matching Device ID: USB\Class_03&SubClass_01
+| | Service: HidUsb
+| | Driver: hidusb.sys, 9/29/2017 10:41:08, 40960 bytes
+| | Driver: hidclass.sys, 9/29/2017 10:41:08, 187392 bytes
+| | Driver: hidparse.sys, 2/21/2018 21:30:58, 46080 bytes
+| | 
+| +-+ HID-compliant mouse
+| | | Vendor/Product ID: 0x1D57, 0x0005
+| | | Matching Device ID: HID_DEVICE_SYSTEM_MOUSE
+| | | Service: mouhid
+| | | Driver: mouhid.sys, 9/29/2017 10:41:08, 32768 bytes
+| | | Driver: mouclass.sys, 9/29/2017 10:41:08, 57240 bytes
 
 ----------------
 Gameport Devices
@@ -176,197 +291,21 @@ Gameport Devices
 ------------
 PS/2 Devices
 ------------
-
-------------------------
-Disk & DVD/CD-ROM Drives
-------------------------
-      Drive: C:
- Free Space: 550.0 GB
-Total Space: 953.1 GB
-File System: NTFS
-      Model: ST1000DM003-1CH162
-
-      Drive: D:
-      Model: HL-DT-ST DVD+-RW GHA2N
-     Driver: c:\windows\system32\drivers\cdrom.sys, 10.00.16299.0015 (Portuguese), 9/29/2017 10:41:02, 159744 bytes
-
---------------
-System Devices
---------------
-     Name: Intel(R) Management Engine Interface 
-Device ID: PCI\VEN_8086&DEV_1E3A&SUBSYS_052C1028&REV_04\3&11583659&0&B0
-   Driver: C:\WINDOWS\system32\DRIVERS\HECIx64.sys, 8.01.0010.1275 (English), 7/13/2012 02:56:32, 62784 bytes
-
-     Name: Intel(R) USB 3.0 eXtensible Host Controller - 1.0 (Microsoft)
-Device ID: PCI\VEN_8086&DEV_1E31&SUBSYS_052C1028&REV_04\3&11583659&0&A0
-   Driver: C:\WINDOWS\system32\DRIVERS\USBXHCI.SYS, 10.00.16299.0431 (Portuguese), 5/3/2018 04:36:57, 437664 bytes
-
-     Name: Intel(R) 82579LM Gigabit Network Connection
-Device ID: PCI\VEN_8086&DEV_1502&SUBSYS_052C1028&REV_04\3&11583659&0&C8
-   Driver: C:\WINDOWS\system32\DRIVERS\e1c65x64.sys, 12.12.0140.0022 (Portuguese), 8/3/2015 23:59:32, 488736 bytes
-   Driver: C:\WINDOWS\system32\e1c65x64.din, 6/19/2015 16:22:50, 3113 bytes
-   Driver: C:\WINDOWS\system32\NicCo4.dll, 4.02.0003.0000 (English), 8/3/2015 23:59:32, 143160 bytes
-   Driver: C:\WINDOWS\system32\NicInstC.dll, 9.12.0010.0000 (English), 8/3/2015 23:59:32, 106568 bytes
-   Driver: C:\WINDOWS\system32\e1cmsg.dll, 10.00.0417.0000 (English), 8/3/2015 23:59:32, 93472 bytes
-
-     Name: Controlador de High Definition Audio
-Device ID: PCI\VEN_8086&DEV_1E20&SUBSYS_052C1028&REV_04\3&11583659&0&D8
-   Driver: C:\WINDOWS\system32\DRIVERS\hdaudbus.sys, 10.00.16299.0015 (English), 9/29/2017 10:40:59, 86016 bytes
-   Driver: C:\WINDOWS\system32\DRIVERS\drmk.sys, 10.00.16299.0015 (English), 9/29/2017 10:40:59, 96768 bytes
-   Driver: C:\WINDOWS\system32\DRIVERS\portcls.sys, 10.00.16299.0015 (English), 9/29/2017 10:40:59, 379392 bytes
-
-     Name: LSI 1394 OHCI Compliant Host Controller
-Device ID: PCI\VEN_11C1&DEV_5811&SUBSYS_58111028&REV_70\4&188672B9&0&10F0
-   Driver: C:\WINDOWS\system32\DRIVERS\1394ohci.sys, 10.00.16299.0015 (Portuguese), 9/29/2017 10:41:02, 237056 bytes
-
-     Name: Xeon(R) processor E3-1200 v2/3rd Gen Core processor DRAM Controller - 0150
-Device ID: PCI\VEN_8086&DEV_0150&SUBSYS_052C1028&REV_09\3&11583659&0&00
-   Driver: n/a
-
-     Name: Intel(R) 7 Series/C216 Chipset Family USB Enhanced Host Controller - 1E26
-Device ID: PCI\VEN_8086&DEV_1E26&SUBSYS_052C1028&REV_04\3&11583659&0&E8
-   Driver: C:\WINDOWS\system32\drivers\usbehci.sys, 10.00.16299.0015 (Portuguese), 9/29/2017 10:41:08, 95640 bytes
-   Driver: C:\WINDOWS\system32\drivers\usbport.sys, 10.00.16299.0015 (Portuguese), 9/29/2017 10:41:08, 454040 bytes
-   Driver: C:\WINDOWS\system32\drivers\usbhub.sys, 10.00.16299.0015 (Portuguese), 9/29/2017 10:41:08, 513944 bytes
-
-     Name: Controlador SATA RAID Desktop/Workstation/Server Express Chipset Intel(R)
-Device ID: PCI\VEN_8086&DEV_2822&SUBSYS_052C1028&REV_04\3&11583659&0&FA
-   Driver: C:\WINDOWS\system32\DRIVERS\iaStorAV.sys, 13.44.0000.1026 (English), 9/29/2017 10:41:03, 674200 bytes
-
-     Name: Intel(R) 7 Series/C216 Chipset Family USB Enhanced Host Controller - 1E2D
-Device ID: PCI\VEN_8086&DEV_1E2D&SUBSYS_052C1028&REV_04\3&11583659&0&D0
-   Driver: C:\WINDOWS\system32\drivers\usbehci.sys, 10.00.16299.0015 (Portuguese), 9/29/2017 10:41:08, 95640 bytes
-   Driver: C:\WINDOWS\system32\drivers\usbport.sys, 10.00.16299.0015 (Portuguese), 9/29/2017 10:41:08, 454040 bytes
-   Driver: C:\WINDOWS\system32\drivers\usbhub.sys, 10.00.16299.0015 (Portuguese), 9/29/2017 10:41:08, 513944 bytes
-
-     Name: AMD Radeon HD 7000 series
-Device ID: PCI\VEN_1002&DEV_6778&SUBSYS_21201028&REV_00\4&2642AC5E&0&0008
-   Driver: C:\WINDOWS\system32\DRIVERS\atikmdag.sys, 8.01.0001.1500 (English), 12/16/2015 20:07:42, 21648880 bytes
-   Driver: C:\WINDOWS\system32\DRIVERS\ati2erec.dll, 1.00.0000.0024 (English), 12/16/2015 20:07:38, 52208 bytes
-   Driver: C:\WINDOWS\system32\atiumd64.dll, 9.14.0010.1128 (English), 12/16/2015 20:06:50, 8864920 bytes
-   Driver: C:\WINDOWS\system32\atiumd6a.dll, 8.14.0010.0513 (English), 12/16/2015 20:06:52, 8982432 bytes
-   Driver: C:\WINDOWS\system32\atitmm64.dll, 6.14.0011.0025 (English), 12/16/2015 20:07:40, 199664 bytes
-   Driver: C:\WINDOWS\system32\amdpcom64.dll, 8.14.0010.0023 (English), 12/16/2015 20:06:50, 88000 bytes
-   Driver: C:\WINDOWS\system32\atimpc64.dll, 8.14.0010.0023 (English), 12/16/2015 20:06:50, 88000 bytes
-   Driver: C:\WINDOWS\system32\atiadlxx.dll, 7.15.0020.1301 (English), 12/16/2015 20:07:38, 1256432 bytes
-   Driver: C:\WINDOWS\system32\atiumd6a.cap, 11/4/2015 21:25:34, 3437632 bytes
-   Driver: C:\WINDOWS\system32\atimuixx.dll, 6.14.0010.1002 (English), 12/16/2015 20:07:40, 38384 bytes
-   Driver: C:\WINDOWS\system32\atiapfxx.exe, 6.14.0010.1001 (English), 12/16/2015 20:07:38, 375792 bytes
-   Driver: C:\WINDOWS\system32\ativvsva.dat, 11/4/2015 21:24:18, 157144 bytes
-   Driver: C:\WINDOWS\system32\ativvsvl.dat, 11/4/2015 21:24:18, 204952 bytes
-   Driver: C:\WINDOWS\system32\ativvaxy_cik.dat, 5/29/2015 01:00:42, 234420 bytes
-   Driver: C:\WINDOWS\system32\ativvaxy_cik_nd.dat, 5/29/2015 00:58:32, 232752 bytes
-   Driver: C:\WINDOWS\system32\ativce02.dat, 7/24/2015 21:44:06, 100816 bytes
-   Driver: C:\WINDOWS\system32\amdmmcl6.dll, 1.06.0000.0000 (English), 12/16/2015 20:07:34, 59376 bytes
-   Driver: C:\WINDOWS\system32\atiesrxx.exe, 6.14.0011.1199 (English), 12/16/2015 20:07:40, 255472 bytes
-   Driver: C:\WINDOWS\system32\atieclxx.exe, 6.14.0011.1199 (English), 12/16/2015 20:07:40, 683504 bytes
-   Driver: C:\WINDOWS\system32\atidemgy.dll, 4.05.5786.29424 (Portuguese), 12/16/2015 20:07:40, 451056 bytes
-   Driver: C:\WINDOWS\system32\atio6axx.dll, 6.14.0010.13399 (English), 12/16/2015 20:07:42, 30775792 bytes
-   Driver: C:\WINDOWS\system32\aticalrt64.dll, 6.14.0010.1848 (English), 12/16/2015 20:07:40, 71152 bytes
-   Driver: C:\WINDOWS\system32\aticalcl64.dll, 6.14.0010.1848 (English), 12/16/2015 20:07:38, 64496 bytes
-   Driver: C:\WINDOWS\system32\aticaldd64.dll, 6.14.0010.1848 (English), 12/16/2015 20:07:40, 15725552 bytes
-   Driver: C:\WINDOWS\system32\atiapfxx.blb, 11/4/2015 21:25:16, 662400 bytes
-   Driver: C:\WINDOWS\system32\amdhdl64.dll, 12/16/2015 20:07:34, 143344 bytes
-   Driver: C:\WINDOWS\system32\hsa-thunk64.dll, 12/16/2015 20:07:40, 111600 bytes
-   Driver: C:\WINDOWS\system32\amdmantle64.dll, 9.01.0010.0083 (English), 12/16/2015 20:07:36, 6686192 bytes
-   Driver: C:\WINDOWS\system32\mantle64.dll, 9.01.0010.0083 (English), 12/16/2015 20:07:40, 136176 bytes
-   Driver: C:\WINDOWS\system32\mantleaxl64.dll, 9.01.0010.0083 (English), 12/16/2015 20:07:40, 103408 bytes
-   Driver: C:\WINDOWS\system32\ativce03.dat, 7/30/2015 22:00:06, 177344 bytes
-   Driver: C:\WINDOWS\system32\ativvaxy_vi.dat, 5/29/2015 01:10:58, 322868 bytes
-   Driver: C:\WINDOWS\system32\ativvaxy_vi_nd.dat, 5/29/2015 01:08:18, 321200 bytes
-   Driver: C:\WINDOWS\system32\ativvaxy_cz_nd.dat, 5/29/2015 01:21:32, 255808 bytes
-   Driver: C:\WINDOWS\system32\amde31a.dat, 7/30/2015 21:58:04, 175648 bytes
-   Driver: C:\WINDOWS\system32\detoured.dll, 2.01.0000.0207 (English), 12/16/2015 20:07:40, 12784 bytes
-   Driver: C:\WINDOWS\system32\amdgfxinfo64.dll, 12/16/2015 20:07:34, 213488 bytes
-   Driver: C:\WINDOWS\system32\atieah64.exe, 12/16/2015 20:07:40, 168944 bytes
-   Driver: C:\WINDOWS\system32\ativvaxy_FJ.dat, 5/29/2015 01:17:24, 250884 bytes
-   Driver: C:\WINDOWS\system32\ativvaxy_FJ_nd.dat, 5/29/2015 01:15:12, 249088 bytes
-   Driver: C:\WINDOWS\system32\amdocl12cl64.dll, 0.08.0000.0000 (English), 12/16/2015 20:07:40, 27544560 bytes
-   Driver: C:\WINDOWS\system32\amdicdxx.dat, 7/23/2015 11:52:32, 833800 bytes
-   Driver: C:\WINDOWS\system32\atiicdxx.dat, 11/6/2014 10:53:26, 737410 bytes
-   Driver: C:\WINDOWS\system32\amdlvr64.dll, 1.00.0003.0008 (English), 12/16/2015 20:07:34, 631792 bytes
-   Driver: C:\WINDOWS\system32\amdmiracast.dll, 12/16/2015 20:06:50, 471320 bytes
-   Driver: C:\WINDOWS\system32\atidxx64.dll, 8.17.0010.0625 (English), 12/16/2015 20:06:50, 12088000 bytes
-   Driver: C:\WINDOWS\SysWOW64\atiumdag.dll, 9.14.0010.1128 (English), 12/16/2015 20:06:50, 7482560 bytes
-   Driver: C:\WINDOWS\SysWOW64\atiumdva.dll, 8.14.0010.0513 (English), 12/16/2015 20:06:52, 8009360 bytes
-   Driver: C:\WINDOWS\SysWOW64\amdpcom32.dll, 8.14.0010.0023 (English), 12/16/2015 20:06:50, 81160 bytes
-   Driver: C:\WINDOWS\SysWOW64\atimpc32.dll, 8.14.0010.0023 (English), 12/16/2015 20:06:50, 81160 bytes
-   Driver: C:\WINDOWS\SysWOW64\atiadlxy.dll, 7.15.0020.1301 (English), 12/16/2015 20:07:38, 935408 bytes
-   Driver: C:\WINDOWS\SysWOW64\atiadlxx.dll, 7.15.0020.1301 (English), 12/16/2015 20:07:38, 935408 bytes
-   Driver: C:\WINDOWS\SysWOW64\atiumdva.cap, 11/4/2015 21:21:02, 3471376 bytes
-   Driver: C:\WINDOWS\SysWOW64\ativvsva.dat, 11/4/2015 21:24:18, 157144 bytes
-   Driver: C:\WINDOWS\SysWOW64\ativvsvl.dat, 11/4/2015 21:24:18, 204952 bytes
-   Driver: C:\WINDOWS\SysWOW64\amdmmcl.dll, 1.06.0000.0000 (English), 12/16/2015 20:07:34, 48112 bytes
-   Driver: C:\WINDOWS\SysWOW64\atioglxx.dll, 6.14.0010.13399 (English), 12/16/2015 20:07:42, 25320432 bytes
-   Driver: C:\WINDOWS\SysWOW64\atidxx32.dll, 8.17.0010.0625 (English), 12/16/2015 20:06:50, 10211016 bytes
-   Driver: C:\WINDOWS\SysWOW64\aticalrt.dll, 6.14.0010.1848 (English), 12/16/2015 20:07:40, 60912 bytes
-   Driver: C:\WINDOWS\SysWOW64\aticalcl.dll, 6.14.0010.1848 (English), 12/16/2015 20:07:38, 57840 bytes
-   Driver: C:\WINDOWS\SysWOW64\aticaldd.dll, 6.14.0010.1848 (English), 12/16/2015 20:07:40, 14310896 bytes
-   Driver: C:\WINDOWS\SysWOW64\atiapfxx.blb, 11/4/2015 21:25:16, 662400 bytes
-   Driver: C:\WINDOWS\SysWOW64\amdhdl32.dll, 12/16/2015 20:07:34, 132080 bytes
-   Driver: C:\WINDOWS\SysWOW64\hsa-thunk.dll, 12/16/2015 20:07:40, 111088 bytes
-   Driver: C:\WINDOWS\SysWOW64\amdmantle32.dll, 9.01.0010.0083 (English), 12/16/2015 20:07:36, 5216240 bytes
-   Driver: C:\WINDOWS\SysWOW64\mantle32.dll, 9.01.0010.0083 (English), 12/16/2015 20:07:40, 122352 bytes
-   Driver: C:\WINDOWS\SysWOW64\mantleaxl32.dll, 9.01.0010.0083 (English), 12/16/2015 20:07:40, 96752 bytes
-   Driver: C:\WINDOWS\SysWOW64\detoured.dll, 2.01.0000.0207 (English), 12/16/2015 20:07:40, 12784 bytes
-   Driver: C:\WINDOWS\SysWOW64\amdgfxinfo32.dll, 12/16/2015 20:07:34, 198640 bytes
-   Driver: C:\WINDOWS\SysWOW64\atieah32.exe, 12/16/2015 20:07:40, 152560 bytes
-   Driver: C:\WINDOWS\SysWOW64\amdocl12cl.dll, 0.08.0000.0000 (English), 12/16/2015 20:07:38, 22327280 bytes
-   Driver: C:\WINDOWS\SysWOW64\amdlvr32.dll, 1.00.0003.0008 (English), 12/16/2015 20:07:34, 524272 bytes
-   Driver: C:\WINDOWS\system32\ATIODCLI.exe, 1.00.0000.0001 (English), 12/16/2015 20:07:40, 59888 bytes
-   Driver: C:\WINDOWS\system32\ATIODE.exe, 1.00.0000.0001 (English), 12/16/2015 20:07:40, 341488 bytes
-   Driver: C:\WINDOWS\system32\DRIVERS\atikmpag.sys, 8.14.0001.6463 (English), 12/16/2015 20:07:40, 674288 bytes
-   Driver: C:\WINDOWS\system32\atiu9p64.dll, 8.14.0001.6463 (English), 12/16/2015 20:06:50, 130064 bytes
-   Driver: C:\WINDOWS\system32\atiuxp64.dll, 8.14.0001.6463 (English), 12/16/2015 20:06:50, 162232 bytes
-   Driver: C:\WINDOWS\system32\atig6txx.dll, 8.14.0001.6463 (English), 12/16/2015 20:07:40, 165360 bytes
-   Driver: C:\WINDOWS\system32\atiglpxx.dll, 8.14.0001.6463 (English), 12/16/2015 20:07:40, 78320 bytes
-   Driver: C:\WINDOWS\system32\aticfx64.dll, 8.17.0010.1404 (English), 12/16/2015 20:06:50, 1479808 bytes
-   Driver: C:\WINDOWS\system32\amdxc64.dll, 8.18.0010.0044 (English), 12/16/2015 20:06:50, 9355016 bytes
-   Driver: C:\WINDOWS\SysWOW64\aticfx32.dll, 8.17.0010.1404 (English), 12/16/2015 20:06:50, 1223544 bytes
-   Driver: C:\WINDOWS\SysWOW64\amdxc32.dll, 8.18.0010.0044 (English), 12/16/2015 20:06:50, 7683096 bytes
-   Driver: C:\Program Files\AMD\CCC2\Install\ccc2_install.exe, 8.911.0003.3000 (Portuguese), 12/16/2015 20:08:02, 96779808 bytes
-   Driver: C:\WINDOWS\system32\OpenCL.dll, 2.00.0004.0000 (English), 12/16/2015 20:07:36, 73712 bytes
-   Driver: C:\WINDOWS\system32\amdocl64.dll, 10.00.1800.0011 (English), 12/16/2015 20:07:40, 47794160 bytes
-   Driver: C:\WINDOWS\system32\amdocl_as64.exe, 12/16/2015 20:07:36, 1196032 bytes
-   Driver: C:\WINDOWS\system32\amdocl_ld64.exe, 12/16/2015 20:07:36, 1070592 bytes
-   Driver: C:\WINDOWS\system32\clinfo.exe, 12/16/2015 20:07:40, 243696 bytes
-   Driver: C:\WINDOWS\SysWOW64\OpenCL.dll, 2.00.0004.0000 (English), 12/16/2015 20:07:34, 68080 bytes
-   Driver: C:\WINDOWS\SysWOW64\amdocl.dll, 10.00.1800.0011 (English), 12/16/2015 20:07:40, 39720944 bytes
-   Driver: C:\WINDOWS\SysWOW64\amdocl_as32.exe, 12/16/2015 20:07:38, 1004032 bytes
-   Driver: C:\WINDOWS\SysWOW64\amdocl_ld32.exe, 12/16/2015 20:07:36, 807424 bytes
-   Driver: C:\Program Files\AMD\amdkmpfd\amdkmpfd.stz, 8.14.0001.6028 (English), 12/16/2015 20:07:34, 82664 bytes
-   Driver: C:\Program Files\AMD\amdkmpfd\amdkmpfd.itz, 6/4/2015 01:56:58, 1988 bytes
-   Driver: C:\Program Files\AMD\amdkmpfd\amdkmpfd.ctz, 6/4/2015 02:05:54, 9805 bytes
-   Driver: C:\WINDOWS\system32\atig6pxx.dll, 8.14.0001.6463 (English), 12/16/2015 20:07:40, 83952 bytes
-   Driver: C:\WINDOWS\SysWOW64\atiu9pag.dll, 8.14.0001.6463 (English), 12/16/2015 20:06:50, 112360 bytes
-   Driver: C:\WINDOWS\SysWOW64\atiuxpag.dll, 8.14.0001.6463 (English), 12/16/2015 20:06:50, 143056 bytes
-   Driver: C:\WINDOWS\SysWOW64\atigktxx.dll, 8.14.0001.6463 (English), 12/16/2015 20:07:40, 150512 bytes
-   Driver: C:\WINDOWS\SysWOW64\atiglpxx.dll, 8.14.0001.6463 (English), 12/16/2015 20:07:40, 78320 bytes
-   Driver: C:\Program Files\Common Files\ATI Technologies\Multimedia\AMDhwDecoder_32.dll, 1.00.0000.0001 (English), 12/16/2015 20:07:36, 217584 bytes
-   Driver: C:\Program Files\Common Files\ATI Technologies\Multimedia\AMDhwDecoder_64.dll, 1.00.0000.0001 (English), 12/16/2015 20:07:34, 254960 bytes
-   Driver: C:\WINDOWS\system32\coinst_15.20.dll, 1.00.0005.0009 (English), 12/16/2015 20:07:40, 874480 bytes
-
-     Name: Xeon(R) processor E3-1200 v2/3rd Gen Core processor PCI Express Root Port - 0151
-Device ID: PCI\VEN_8086&DEV_0151&SUBSYS_052C1028&REV_09\3&11583659&0&08
-   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.16299.0402 (Portuguese), 4/15/2018 18:33:17, 362904 bytes
-
-     Name: Ponte PCI para PCI
-Device ID: PCI\VEN_8086&DEV_244E&SUBSYS_052C1028&REV_A4\3&11583659&0&F0
-   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.16299.0402 (Portuguese), 4/15/2018 18:33:17, 362904 bytes
-
-     Name: Intel(R) 7 Series/C216 Chipset Family SMBus Host Controller - 1E22
-Device ID: PCI\VEN_8086&DEV_1E22&SUBSYS_052C1028&REV_04\3&11583659&0&FB
-   Driver: n/a
-
-     Name: Intel(R) Q77 Express Chipset LPC Controller - 1E47
-Device ID: PCI\VEN_8086&DEV_1E47&SUBSYS_052C1028&REV_04\3&11583659&0&F8
-   Driver: C:\WINDOWS\system32\DRIVERS\msisadrv.sys, 10.00.16299.0015 (English), 9/29/2017 10:41:03, 18840 bytes
-
-     Name: Controlador de High Definition Audio
-Device ID: PCI\VEN_1002&DEV_AA98&SUBSYS_AA981028&REV_00\4&2642AC5E&0&0108
-   Driver: C:\WINDOWS\system32\DRIVERS\hdaudbus.sys, 10.00.16299.0015 (English), 9/29/2017 10:40:59, 86016 bytes
-   Driver: C:\WINDOWS\system32\DRIVERS\drmk.sys, 10.00.16299.0015 (English), 9/29/2017 10:40:59, 96768 bytes
-   Driver: C:\WINDOWS\system32\DRIVERS\portcls.sys, 10.00.16299.0015 (English), 9/29/2017 10:40:59, 379392 bytes
++ Keyboard Device Filter
+| Matching Device ID: *ATK3001
+| Upper Filters: kbfiltr
+| Service: i8042prt
+| Driver: kbfiltr.sys, 8/2/2012 00:22:48, 14992 bytes
+| Driver: i8042prt.sys, 9/29/2017 10:41:08, 105984 bytes
+| Driver: kbdclass.sys, 9/29/2017 10:41:08, 63384 bytes
+| 
++ ASUS Touchpad
+| Matching Device ID: ACPI\ETD0108
+| Upper Filters: ATP
+| Service: i8042prt
+| Driver: AsusTP.sys, 8/23/2015 17:17:00, 100776 bytes
+| Driver: mouclass.sys, 9/29/2017 10:41:08, 57240 bytes
+| Driver: i8042prt.sys, 9/29/2017 10:41:08, 105984 bytes
 
 ------------------
 DirectShow Filters
@@ -419,6 +358,7 @@ Overlay Mixer2,0x00200000,1,1,,
 AVI Draw,0x00600064,9,1,quartz.dll,10.00.16299.0015
 Microsoft MPEG-2 Audio Encoder,0x00200000,1,1,msmpeg2enc.dll,10.00.16299.0015
 WST Pager,0x00200000,1,1,WSTPager.ax,10.00.16299.0015
+GoPro-CineForm Decoder-2,0x00800002,1,1,CFDecode64.ax,
 MPEG-2 Demultiplexer,0x00600000,1,1,mpg2splt.ax,10.00.16299.0015
 DV Video Decoder,0x00800000,1,1,qdv.dll,10.00.16299.0015
 SampleGrabber,0x00200000,1,1,qedit.dll,10.00.16299.0015
@@ -446,7 +386,7 @@ BDA MPEG2 Transport Information Filter,0x00200000,2,0,psisrndr.ax,10.00.16299.00
 MPEG Video Decoder,0x40000001,1,1,quartz.dll,10.00.16299.0015
 
 WDM Streaming Tee/Splitter Devices:
-Conversor em T/Entre Coletores,0x00200000,1,1,ksproxy.ax,10.00.16299.0334
+Tee/Sink-to-Sink Converter,0x00200000,1,1,ksproxy.ax,10.00.16299.0334
 
 Video Compressors:
 WMVideo8 Encoder DMO,0x00600800,1,1,wmvxencd.dll,10.00.16299.0248
@@ -466,6 +406,9 @@ CCITT A-Law,0x00200000,1,1,quartz.dll,10.00.16299.0015
 CCITT u-Law,0x00200000,1,1,quartz.dll,10.00.16299.0015
 MPEG Layer-3,0x00200000,1,1,quartz.dll,10.00.16299.0015
 
+Audio Capture Sources:
+Microphone (Realtek High Definition Audio),0x00200000,0,0,qcap.dll,10.00.16299.0015
+
 PBDA CP Filters:
 PBDA DTFilter,0x00600000,1,1,CPFilters.dll,10.00.16299.0192
 PBDA ETFilter,0x00200000,0,0,CPFilters.dll,10.00.16299.0192
@@ -476,12 +419,15 @@ Default MidiOut Device,0x00800000,1,0,quartz.dll,10.00.16299.0015
 Microsoft GS Wavetable Synth,0x00200000,1,0,quartz.dll,10.00.16299.0015
 
 WDM Streaming Capture Devices:
-{17CCA71B-ECD7-11D0-B908-00A0C9223196},0x00200000,1,1,ksproxy.ax,10.00.16299.0334
-{17CCA71B-ECD7-11D0-B908-00A0C9223196},0x00200000,1,1,ksproxy.ax,10.00.16299.0334
-{17CCA71B-ECD7-11D0-B908-00A0C9223196},0x00200000,1,1,ksproxy.ax,10.00.16299.0334
+Realtek HD Audio Mic input,0x00200000,1,1,ksproxy.ax,10.00.16299.0334
+Realtek HD Audio Stereo input,0x00200000,1,1,ksproxy.ax,10.00.16299.0334
+{17CCA71B-ECD7-11D0-B908-00A0C9223196},0x00200000,2,2,ksproxy.ax,10.00.16299.0334
 
 WDM Streaming Rendering Devices:
+{17CCA71B-ECD7-11D0-B908-00A0C9223196},0x00200000,2,2,ksproxy.ax,10.00.16299.0334
 Realtek HD Audio output,0x00200000,1,1,ksproxy.ax,10.00.16299.0334
+Realtek HDA SPDIF Out,0x00200000,1,1,ksproxy.ax,10.00.16299.0334
+{17CCA71B-ECD7-11D0-B908-00A0C9223196},0x00200000,1,1,ksproxy.ax,10.00.16299.0334
 
 BDA Network Providers:
 Microsoft ATSC Network Provider,0x00200000,0,1,MSDvbNP.ax,10.00.16299.0015
@@ -504,13 +450,15 @@ PTFilter,0x00200000,0,0,EncDec.dll,10.00.16299.0192
 XDS Codec,0x00200000,0,0,EncDec.dll,10.00.16299.0192
 
 WDM Streaming Communication Transforms:
-Conversor em T/Entre Coletores,0x00200000,1,1,ksproxy.ax,10.00.16299.0334
+Tee/Sink-to-Sink Converter,0x00200000,1,1,ksproxy.ax,10.00.16299.0334
 
 Audio Renderers:
-Alto-falantes (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.16299.0015
+Speakers (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.16299.0015
 Default DirectSound Device,0x00800000,1,0,quartz.dll,10.00.16299.0015
 Default WaveOut Device,0x00200000,1,0,quartz.dll,10.00.16299.0015
-DirectSound: Alto-falantes (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.16299.0015
+DirectSound: Speakers (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.16299.0015
+DirectSound: Realtek Digital Output (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.16299.0015
+Realtek Digital Output (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.16299.0015
 
 
 ----------------------------
@@ -583,7 +531,7 @@ Media Foundation Transforms
   <transform friendly name>, <transform CLSID>, <flags>, [<merit>, ]<file name>, <file version>
 
 Video Decoders:
-  AMD D3D11 Hardware MFT Playback Decoder, {17796AEB-0F66-4663-B8FB-99CBEE0224CE}, 0x4, 8, AMDhwDecoder_64.dll, 1.00.0000.0001
+  Intel® Hardware M-JPEG Decoder MFT, {00C69F81-0524-48C0-A353-4DD9D54F9A6E}, 0x6, 7, mfx_mft_mjpgvd_64.dll, 6.15.0006.0002
   Microsoft MPEG Video Decoder MFT, {2D709E52-123F-49B5-9CBC-9AF5CDE28FB9}, 0x1, msmpeg2vdec.dll, 10.00.16299.0248
   DV Decoder MFT, {404A6DE5-D4D6-4260-9BC7-5A6CBD882432}, 0x1, mfdvdec.dll, 10.00.16299.0015
   Mpeg4s Decoder MFT, CLSID_CMpeg4sDecMFT, 0x1, mp4sdecd.dll, 10.00.16299.0015
@@ -595,6 +543,7 @@ Video Decoders:
   Microsoft WebM MF VP8 Decoder Transform, {E3AAF548-C9A4-4C6E-234D-5ADA374B0000}, 0x1, MSVP9DEC.dll, 10.00.16299.0248
   Mpeg4 Decoder MFT, CLSID_CMpeg4DecMediaObject, 0x1, mpg4decd.dll, 10.00.16299.0015
 Video Encoders:
+  Intel® Quick Sync Video H.264 Encoder MFT, {4BE8D3C0-0515-4A37-AD55-E4BAE19AF471}, 0x4, 7, mfx_mft_h264ve_64.dll, 6.15.0006.0002
   H264 Encoder MFT, {6CA50344-051A-4DED-9779-A43305165E35}, 0x1, mfh264enc.dll, 10.00.16299.0015
   WMVideo8 Encoder MFT, CLSID_CWMVXEncMediaObject, 0x1, wmvxencd.dll, 10.00.16299.0248
   Microsoft MF VPX Encoder Transform, {AEB6C755-2546-4881-82CC-E15AE5EBFF3D}, 0x1, MSVPXENC.dll, 10.00.16299.0251
@@ -654,9 +603,8 @@ Media Foundation Enabled Hardware Categories
 
 [HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Media Foundation\HardwareMFT]
 
-EnableDecoders = 1
 EnableEncoders = 1
-EnableVideoProcessors = 1
+EnableDecoders = 1
 
 
 -------------------------------------
@@ -914,217 +862,147 @@ Diagnostics
 
 Windows Error Reporting:
 +++ WER0 +++:
-Falha no bucket 1212022263587072837, tipo 5
-Nome do Evento: StoreAgentDownloadFailure1
-Resposta: Não disponível
-ID do CAB: 0
+Fault bucket 2275789485906256580, type 5
+Event Name: RADAR_PRE_LEAK_64
+Response: Not available
+Cab Id: 0
 
-Assinatura do problema:
-P1: Update;taskhostw
-P2: 80d05001
-P3: 16299
-P4: 431
-P5: Windows.Desktop
-P6: 2
+Problem signature:
+P1: UE4Editor.exe
+P2: 4.19.1.0
+P3: 10.0.16299.2.0.0
+P4: 
+P5: 
+P6: 
 P7: 
 P8: 
 P9: 
 P10: 
 
-Arquivos anexados:
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERB269.tmp.WERInternalMetadata.xml
 
-Esses arquivos podem estar disponíveis em:
-C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;taskhostw_13b67719535c2534384e83e1154edb58c83a62_00000000_1a0732cd
-
-Símbolo da análise: 
-Verificando novamente solução: 0
-ID do Relatório: 053cc565-a109-47a7-aeb1-4eb9f6881877
-Status do Relatório: 268435556
-Bucket com hash: 3b93d75a193bfa2f40d1f7d3c0f8eb45
 +++ WER1 +++:
-Falha no bucket 2140381428199131987, tipo 5
-Nome do Evento: WindowsUpdateFailure3
-Resposta: Não disponível
-ID do CAB: 0
+Fault bucket 1564972088788527023, type 5
+Event Name: RADAR_PRE_LEAK_64
+Response: Not available
+Cab Id: 0
 
-Assinatura do problema:
-P1: 10.0.16299.431
-P2: 80d05001
-P3: 47C533D3-1DE6-4A64-9C34-862D241A4A89
-P4: Download
-P5: 1
-P6: 0
-P7: 0
-P8: Update;taskhostw
-P9: {855E8A7C-ECB4-4CA3-B045-1DFA50104289}
-P10: 0
+Problem signature:
+P1: SetupHost.exe
+P2: 10.0.17134.1
+P3: 10.0.16299.2.0.0
+P4: 
+P5: 
+P6: 
+P7: 
+P8: 
+P9: 
+P10: 
 
-Arquivos anexados:
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER5CF2.tmp.WERInternalMetadata.xml
 
-Esses arquivos podem estar disponíveis em:
-C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_10.0.16299.431_04085de5baaea485977d016314d7fe23e74ce_00000000_2b669468
-
-Símbolo da análise: 
-Verificando novamente solução: 0
-ID do Relatório: fb89a409-8946-4981-8a51-e226b33527ea
-Status do Relatório: 268435456
-Bucket com hash: 250f783889a043a52db4299197a70b53
 +++ WER2 +++:
-Falha no bucket 2053639902699842362, tipo 5
-Nome do Evento: StoreAgentDownloadFailure1
-Resposta: Não disponível
-ID do CAB: 0
+Fault bucket 128060030746, type 5
+Event Name: WinSetupDiag02
+Response: Not available
+Cab Id: 0
 
-Assinatura do problema:
-P1: Update;taskhostw
-P2: 80d05001
-P3: 16299
-P4: 431
-P5: Windows.Desktop
-P6: L
-P7: 
-P8: 
-P9: 
-P10: 
+Problem signature:
+P1: 6
+P2: 1
+P3: X
+P4: 0
+P5: 0x0
+P6: 0x30000
+P7: 16299
+P8: rs3_release_svc_escrow
+P9: X
+P10: X
 
-Arquivos anexados:
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER4497.tmp.WERInternalMetadata.xml
 
-Esses arquivos podem estar disponíveis em:
-C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;taskhostw_10c281ea7bf139381494c9491bc9087816e8f_00000000_2b665c6f
-
-Símbolo da análise: 
-Verificando novamente solução: 0
-ID do Relatório: 081dde79-d3fc-4e0a-ae05-816d3605efba
-Status do Relatório: 268435456
-Bucket com hash: 40bf5ac0c3d7db42ec7ffe9c60fdeb3a
 +++ WER3 +++:
-Falha no bucket 1629594957777203910, tipo 5
-Nome do Evento: WindowsUpdateFailure3
-Resposta: Não disponível
-ID do CAB: 0
+Fault bucket 1474600993592136537, type 5
+Event Name: WindowsUpdateFailure3
+Response: Not available
+Cab Id: 0
 
-Assinatura do problema:
+Problem signature:
 P1: 10.0.16299.431
-P2: 80d05001
-P3: 45554F00-9301-44E9-A85F-BF4F991AE8F3
-P4: Download
+P2: 8024200d
+P3: 7B3F085B-AF94-4576-9A9C-9A5E41CD1FC9
+P4: Install
 P5: 1
 P6: 0
 P7: 0
-P8: Update;taskhostw
-P9: {855E8A7C-ECB4-4CA3-B045-1DFA50104289}
+P8: UpdateOrchestrator
+P9: {8B24B027-1DEE-BABB-9A95-3517DFB9C552}
 P10: 0
 
-Arquivos anexados:
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER2FF5.tmp.WERInternalMetadata.xml
 
-Esses arquivos podem estar disponíveis em:
-C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_10.0.16299.431_4b7e84d924efaf5dbe25f68524a44d6499edfca_00000000_2b664425
-
-Símbolo da análise: 
-Verificando novamente solução: 0
-ID do Relatório: 6b7999a4-b088-4629-87ba-8def53dd71fe
-Status do Relatório: 268435456
-Bucket com hash: e33785b35795f48da69d7bfaea13f2c6
 +++ WER4 +++:
-Falha no bucket 2240762517972193395, tipo 5
-Nome do Evento: WindowsUpdateFailure3
-Resposta: Não disponível
-ID do CAB: 0
+Fault bucket , type 0
+Event Name: WindowsUpdateFailure3
+Response: Not available
+Cab Id: 0
 
-Assinatura do problema:
+Problem signature:
 P1: 10.0.16299.431
-P2: 80d05001
-P3: 5A2A7F80-85EF-489F-8580-49EB6DDF92A5
-P4: Download
+P2: 8024200d
+P3: 7B3F085B-AF94-4576-9A9C-9A5E41CD1FC9
+P4: Install
 P5: 1
 P6: 0
 P7: 0
-P8: Update;taskhostw
-P9: {855E8A7C-ECB4-4CA3-B045-1DFA50104289}
+P8: UpdateOrchestrator
+P9: {8B24B027-1DEE-BABB-9A95-3517DFB9C552}
 P10: 0
 
-Arquivos anexados:
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER23DE.tmp.WERInternalMetadata.xml
 
-Esses arquivos podem estar disponíveis em:
-C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_10.0.16299.431_be17ac161bbb71bd4fd6d7573daaf3b6fbd1d2a_00000000_2b662f74
-
-Símbolo da análise: 
-Verificando novamente solução: 0
-ID do Relatório: 65ab9a64-81a8-4cfd-89b7-3e29ca33912f
-Status do Relatório: 268435456
-Bucket com hash: 97e4e41bc973bcec1f18c9a355be1073
 +++ WER5 +++:
-Falha no bucket 1984695345905061689, tipo 5
-Nome do Evento: WindowsUpdateFailure3
-Resposta: Não disponível
-ID do CAB: 0
+Fault bucket , type 0
+Event Name: WindowsUpdateFailure3
+Response: Not available
+Cab Id: 0
 
-Assinatura do problema:
+Problem signature:
 P1: 10.0.16299.431
-P2: 80246002
-P3: D1D50557-D32E-414E-A449-41EE6AAAB98E
-P4: Download
+P2: 8024200d
+P3: 7B3F085B-AF94-4576-9A9C-9A5E41CD1FC9
+P4: Install
 P5: 1
 P6: 0
 P7: 0
-P8: Update;taskhostw
-P9: {855E8A7C-ECB4-4CA3-B045-1DFA50104289}
+P8: UpdateOrchestrator
+P9: {8B24B027-1DEE-BABB-9A95-3517DFB9C552}
 P10: 0
 
-Arquivos anexados:
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER161.tmp.WERInternalMetadata.xml
 
-Esses arquivos podem estar disponíveis em:
-C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_10.0.16299.431_4e6c473e4a2e6bb3e0e2b3206f236eec1b4ff_00000000_2b66235e
-
-Símbolo da análise: 
-Verificando novamente solução: 0
-ID do Relatório: 8cbc5411-adc8-4c59-b9b6-33a5829a1556
-Status do Relatório: 268435456
-Bucket com hash: 81743bf160bfc1367b8b0de6d80acf39
 +++ WER6 +++:
-Falha no bucket 1212022263587072837, tipo 5
-Nome do Evento: StoreAgentDownloadFailure1
-Resposta: Não disponível
-ID do CAB: 0
+Fault bucket 129572174648, type 5
+Event Name: RADAR_PRE_LEAK_64
+Response: Not available
+Cab Id: 0
 
-Assinatura do problema:
-P1: Update;taskhostw
-P2: 80d05001
-P3: 16299
-P4: 431
-P5: Windows.Desktop
-P6: 2
+Problem signature:
+P1: Photoshop.exe
+P2: 16.0.0.88
+P3: 10.0.16299.2.0.0
+P4: 
+P5: 
+P6: 
 P7: 
 P8: 
 P9: 
 P10: 
 
-Arquivos anexados:
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC8EB.tmp.WERInternalMetadata.xml
 
-Esses arquivos podem estar disponíveis em:
-C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;taskhostw_13b67719535c2534384e83e1154edb58c83a62_00000000_2b660101
-
-Símbolo da análise: 
-Verificando novamente solução: 0
-ID do Relatório: f0f29fe5-b91a-476d-9cca-2906c5c5d301
-Status do Relatório: 268435456
-Bucket com hash: 3b93d75a193bfa2f40d1f7d3c0f8eb45
 +++ WER7 +++:
-Falha no bucket 2253451963502281522, tipo 5
-Nome do Evento: StoreAgentDownloadFailure1
-Resposta: Não disponível
-ID do CAB: 0
+Fault bucket 1600283697581198178, type 5
+Event Name: StoreAgentDownloadFailure1
+Response: Not available
+Cab Id: 0
 
-Assinatura do problema:
+Problem signature:
 P1: Update;taskhostw
-P2: 80d05001
+P2: 8024001e
 P3: 16299
 P4: 431
 P5: Windows.Desktop
@@ -1134,72 +1012,42 @@ P8:
 P9: 
 P10: 
 
-Arquivos anexados:
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERB477.tmp.WERInternalMetadata.xml
 
-Esses arquivos podem estar disponíveis em:
-C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;taskhostw_e7f416bd9189e991212b7f40435e4e731db4c9a_00000000_2b65c86d
-
-Símbolo da análise: 
-Verificando novamente solução: 0
-ID do Relatório: 539cacb9-f2af-4b57-9746-409a338fd225
-Status do Relatório: 268435456
-Bucket com hash: c2118e74a753b8187f45de9f1af5c332
 +++ WER8 +++:
-Falha no bucket 1734322392418039250, tipo 5
-Nome do Evento: StoreAgentDownloadFailure1
-Resposta: Não disponível
-ID do CAB: 0
+Fault bucket , type 0
+Event Name: StoreAgentDownloadFailure1
+Response: Not available
+Cab Id: 0
 
-Assinatura do problema:
+Problem signature:
 P1: Update;taskhostw
-P2: 80246002
+P2: 8024001e
 P3: 16299
 P4: 431
 P5: Windows.Desktop
-P6: 8
+P6: M
 P7: 
 P8: 
 P9: 
 P10: 
 
-Arquivos anexados:
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER9C4B.tmp.WERInternalMetadata.xml
 
-Esses arquivos podem estar disponíveis em:
-C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;taskhostw_19db2c7a3caf23279041df8be68384e8b1ff7_00000000_2b65b3eb
-
-Símbolo da análise: 
-Verificando novamente solução: 0
-ID do Relatório: 485179af-7b9e-48e0-8e1d-afb8592a00e2
-Status do Relatório: 268435456
-Bucket com hash: 81148d9ce1e8051e38118d06ee1535d2
 +++ WER9 +++:
-Falha no bucket 2006158953289874841, tipo 5
-Nome do Evento: WindowsUpdateFailure3
-Resposta: Não disponível
-ID do CAB: 0
+Fault bucket 2024340680572643692, type 5
+Event Name: StoreAgentDownloadFailure1
+Response: Not available
+Cab Id: 0
 
-Assinatura do problema:
-P1: 10.0.16299.431
-P2: 80246002
-P3: B56FC2FC-2B72-4554-8071-293627D2632F
-P4: Download
-P5: 2
-P6: 0
-P7: 0
-P8: Update;taskhostw
-P9: {855E8A7C-ECB4-4CA3-B045-1DFA50104289}
-P10: 0
+Problem signature:
+P1: Update;taskhostw
+P2: 8024001e
+P3: 16299
+P4: 431
+P5: Windows.Desktop
+P6: V
+P7: 
+P8: 
+P9: 
+P10: 
 
-Arquivos anexados:
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER8FB7.tmp.WERInternalMetadata.xml
 
-Esses arquivos podem estar disponíveis em:
-C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_10.0.16299.431_79e39174ba44168ecef6cf4c3d72c0173b2fa1f_00000000_2b659ba0
-
-Símbolo da análise: 
-Verificando novamente solução: 0
-ID do Relatório: c4abb35a-2eb2-4092-b08d-24e27edd0092
-Status do Relatório: 268435456
-Bucket com hash: d8e39352c620fbc3abd74ef05dcffd99
