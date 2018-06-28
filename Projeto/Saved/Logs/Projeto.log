@@ -1395,3 +1395,385 @@ LogInit: Object subsystem initialized
 [2018.06.28-01.16.20:995][456]LogSavePackage: Moving '../../../../../../Users/LucianaHarada/Documents/GitHub/BumpAll/Projeto/Saved/ProjetoPCS8D88090143F696E00D08028E82980A8A.tmp' to '../../../../../../Users/LucianaHarada/Documents/GitHub/BumpAll/Projeto/Content/ProjetoPCS.umap'
 [2018.06.28-01.16.21:003][456]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/LucianaHarada/Documents/GitHub/BumpAll/Projeto/Content/ProjetoPCS.umap
 [2018.06.28-01.16.23:194][480]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e7663eb0e8, Size=24
+[2018.06.28-01.23.43:616][ 69]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.28-01.23.43:799][ 69]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel' has LevelScriptBlueprint '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS' with GeneratedClass '/Game/ProjetoPCS.ProjetoPCS_C' with ClassGeneratedBy '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS'
+[2018.06.28-01.23.43:799][ 69]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.28-01.23.43:799][ 69]PIE: New page: PIE session: ProjetoPCS (Jun 27, 2018, 7:23:43 PM)
+[2018.06.28-01.23.43:800][ 69]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ProjetoPCS
+[2018.06.28-01.23.43:812][ 69]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012610s)
+[2018.06.28-01.23.43:813][ 69]LogAIModule: Creating AISystem for world ProjetoPCS
+[2018.06.28-01.23.43:814][ 69]LogPlayLevel: PIE: World Init took: (0.001590s)
+[2018.06.28-01.23.43:814][ 69]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProjetoPCS.ProjetoPCS to /Game/UEDPIE_0_ProjetoPCS.ProjetoPCS (0.014460s)
+[2018.06.28-01.23.43:859][ 69]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-01.23.43:902][ 69]LogInit: FAudioDevice initialized.
+[2018.06.28-01.23.43:943][ 69]LogLoad: Game class is 'FunctionalTestGameMode'
+[2018.06.28-01.23.43:950][ 69]LogWorld: Bringing World /Game/UEDPIE_0_ProjetoPCS.ProjetoPCS up for play (max tick rate 60) at 2018.06.27-22.23.43
+[2018.06.28-01.23.43:951][ 69]LogWorld: Bringing up level for play took: 0.006724
+[2018.06.28-01.23.43:953][ 69]PIE: Play in editor start time for /Game/UEDPIE_0_ProjetoPCS 0.894
+[2018.06.28-01.23.43:953][ 69]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel' has LevelScriptBlueprint '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS' with GeneratedClass '/Game/ProjetoPCS.ProjetoPCS_C' with ClassGeneratedBy '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS'
+[2018.06.28-01.23.51:133][233]LogBlueprintUserMessages: [Estrela_83] SAIU DA ESTRELA
+[2018.06.28-01.23.59:428][422]LogBlueprintUserMessages: [Estrela_83] SAIU DA ESTRELA
+[2018.06.28-01.24.02:412][491]LogBlueprintUserMessages: [Estrela_83] SAIU DA ESTRELA
+[2018.06.28-01.24.04:115][530]LogBlueprintUserMessages: [Estrela_83] SAIU DA ESTRELA
+[2018.06.28-01.24.06:201][577]LogBlueprintUserMessages: [Estrela_83] SAIU DA ESTRELA
+[2018.06.28-01.24.09:113][644]LogBlueprintUserMessages: [Estrela_83] SAIU DA ESTRELA
+[2018.06.28-01.25.05:377][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-01.25.05:582][677]LogRenderer: Reallocating scene render targets to support 908x588 Format 10 NumSamples 1 (Frame:800).
+[2018.06.28-01.25.11:447][765]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel' has LevelScriptBlueprint '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS' with GeneratedClass '/Game/ProjetoPCS.ProjetoPCS_C' with ClassGeneratedBy '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS'
+[2018.06.28-01.25.11:588][765]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel' has LevelScriptBlueprint '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS' with GeneratedClass '/Game/ProjetoPCS.ProjetoPCS_C' with ClassGeneratedBy '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS'
+[2018.06.28-01.25.41:030][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_2" FILE="../../../../../../Users/LucianaHarada/Documents/GitHub/BumpAll/Projeto/Content/Player_2.uasset" SILENT=true
+[2018.06.28-01.25.41:426][ 57]LogSavePackage: Save=342.81ms
+[2018.06.28-01.25.41:426][ 57]LogSavePackage: Moving '../../../../../../Users/LucianaHarada/Documents/GitHub/BumpAll/Projeto/Saved/Player_29508EE944A3D0D6389747BA5BCD97DB9.tmp' to '../../../../../../Users/LucianaHarada/Documents/GitHub/BumpAll/Projeto/Content/Player_2.uasset'
+[2018.06.28-01.25.41:432][ 57]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/LucianaHarada/Documents/GitHub/BumpAll/Projeto/Content/Player_2.uasset
+[2018.06.28-01.25.45:553][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjetoPCS" FILE="../../../../../../Users/LucianaHarada/Documents/GitHub/BumpAll/Projeto/Content/ProjetoPCS.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.28-01.25.45:628][145]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e7663eace0, Size=24
+[2018.06.28-01.25.45:628][145]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e79be18898, Size=24, Default__ProjetoPCS_C Function /Engine/Transient.REINST_ProjetoPCS_C_113:ExecuteUbergraph_ProjetoPCS
+[2018.06.28-01.25.45:630][145]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e79be19990, Size=24, Default__ProjetoPCS_C Function /Game/ProjetoPCS.ProjetoPCS_C:ExecuteUbergraph_ProjetoPCS
+[2018.06.28-01.25.45:905][145]LogSavePackage: Save=285.54ms
+[2018.06.28-01.25.45:905][145]LogSavePackage: Moving '../../../../../../Users/LucianaHarada/Documents/GitHub/BumpAll/Projeto/Saved/ProjetoPCS219AB44B46F9E5CD561D83BBFFEFD6E0.tmp' to '../../../../../../Users/LucianaHarada/Documents/GitHub/BumpAll/Projeto/Content/ProjetoPCS.umap'
+[2018.06.28-01.25.45:912][145]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/LucianaHarada/Documents/GitHub/BumpAll/Projeto/Content/ProjetoPCS.umap
+[2018.06.28-01.25.45:953][145]LogFileHelpers: Saving map 'ProjetoPCS' took 0.591
+[2018.06.28-01.25.50:479][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e79be18898, Size=24
+[2018.06.28-01.28.48:155][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_2" FILE="../../../../../../Users/LucianaHarada/Documents/GitHub/BumpAll/Projeto/Content/Player_2.uasset" SILENT=true
+[2018.06.28-01.28.48:516][494]LogSavePackage: Save=305.94ms
+[2018.06.28-01.28.48:516][494]LogSavePackage: Moving '../../../../../../Users/LucianaHarada/Documents/GitHub/BumpAll/Projeto/Saved/Player_2950629AB4B34ABD78DB04DB44ACDF068.tmp' to '../../../../../../Users/LucianaHarada/Documents/GitHub/BumpAll/Projeto/Content/Player_2.uasset'
+[2018.06.28-01.28.48:524][494]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/LucianaHarada/Documents/GitHub/BumpAll/Projeto/Content/Player_2.uasset
+[2018.06.28-01.28.59:821][607]LogSlate: Window 'Player_2' being destroyed
+[2018.06.28-01.28.59:912][607]LogSlate: Window 'Player_2' being destroyed
+[2018.06.28-01.29.00:200][607]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.06.28-01.32.26:777][319]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.28-01.32.26:822][319]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel' has LevelScriptBlueprint '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS' with GeneratedClass '/Game/ProjetoPCS.ProjetoPCS_C' with ClassGeneratedBy '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS'
+[2018.06.28-01.32.26:863][319]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.06.28-01.32.26:984][319]LogPlayLevel: [PlayLevel] Compiling Player_2 before play...
+[2018.06.28-01.32.27:144][319]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e78734b580, Size=1984
+[2018.06.28-01.32.27:144][319]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e770670100, Size=1984, Default__Player_2_C Function /Engine/Transient.REINST_Player_2_C_117:ExecuteUbergraph_Player_2
+[2018.06.28-01.32.27:181][319]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e7b5cfa080, Size=1984, Default__Player_2_C Function /Game/Player_2.Player_2_C:ExecuteUbergraph_Player_2
+[2018.06.28-01.32.27:606][319]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e770670100, Size=1984
+[2018.06.28-01.32.27:611][319]LogPlayLevel: PlayLevel: Blueprint regeneration took 789 ms (1 blueprints)
+[2018.06.28-01.32.27:612][319]PIE: New page: PIE session: ProjetoPCS (Jun 27, 2018, 7:32:27 PM)
+[2018.06.28-01.32.27:612][319]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ProjetoPCS
+[2018.06.28-01.32.27:621][319]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008657s)
+[2018.06.28-01.32.27:621][319]LogAIModule: Creating AISystem for world ProjetoPCS
+[2018.06.28-01.32.27:621][319]LogPlayLevel: PIE: World Init took: (0.000775s)
+[2018.06.28-01.32.27:621][319]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProjetoPCS.ProjetoPCS to /Game/UEDPIE_0_ProjetoPCS.ProjetoPCS (0.009634s)
+[2018.06.28-01.32.27:654][319]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-01.32.27:688][319]LogInit: FAudioDevice initialized.
+[2018.06.28-01.32.27:726][319]LogLoad: Game class is 'FunctionalTestGameMode'
+[2018.06.28-01.32.27:733][319]LogWorld: Bringing World /Game/UEDPIE_0_ProjetoPCS.ProjetoPCS up for play (max tick rate 60) at 2018.06.27-22.32.27
+[2018.06.28-01.32.27:734][319]LogWorld: Bringing up level for play took: 0.006806
+[2018.06.28-01.32.27:735][319]PIE: Play in editor start time for /Game/UEDPIE_0_ProjetoPCS 0.676
+[2018.06.28-01.32.27:735][319]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel' has LevelScriptBlueprint '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS' with GeneratedClass '/Game/ProjetoPCS.ProjetoPCS_C' with ClassGeneratedBy '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS'
+[2018.06.28-01.32.33:210][438]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel' has LevelScriptBlueprint '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS' with GeneratedClass '/Game/ProjetoPCS.ProjetoPCS_C' with ClassGeneratedBy '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS'
+[2018.06.28-01.32.33:292][438]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel' has LevelScriptBlueprint '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS' with GeneratedClass '/Game/ProjetoPCS.ProjetoPCS_C' with ClassGeneratedBy '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS'
+[2018.06.28-01.32.36:229][485]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.28-01.32.39:310][530]MapCheck: New page: Map Check
+[2018.06.28-01.32.39:608][530]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.28-01.32.39:661][530]LightingResults: New page: Lighting Build - Jun 27, 2018, 7:32:39 PM
+[2018.06.28-01.32.48:788][530]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.06.28-01.32.49:990][530]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.06.28-01.32.56:623][530]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.06.28-01.33.02:520][530]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2018.06.28-01.33.02:684][530]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente 127.0.0.1:8008
+
+Server stack trace: 
+   em System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   em System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   em System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   em System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   em System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   em System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   em System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   em System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   em System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   em NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   em NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags)
+[2018.06.28-01.33.09:687][530]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2018.06.28-01.33.09:688][530]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente 127.0.0.1:8008
+
+Server stack trace: 
+   em System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   em System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   em System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   em System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   em System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   em System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   em System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   em System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   em System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   em NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   em NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags)
+[2018.06.28-01.33.17:724][530]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.06.28-01.33.17:724][530]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12500
+[2018.06.28-01.33.31:836][530]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.06.28-01.33.32:027][530]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.06.28-01.33.32:027][530]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.06.28-01.33.32:027][530]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.06.28-01.33.32:027][530]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.06.28-01.33.32:027][530]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.06.28-01.33.33:607][530]LogEditorBuildUtils: Build time 0:53
+[2018.06.28-01.33.41:424][551]Job is a success!
+[2018.06.28-01.33.41:926][552]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.108s
+[2018.06.28-01.33.41:927][552]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.06.28-01.33.41:927][552]LogVolumetricLightmapImport:      BrickData 5x5x5 = 0.0Mb
+[2018.06.28-01.33.41:927][552]LogVolumetricLightmapImport:      Bricks at Level
+[2018.06.28-01.33.41:927][552]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2018.06.28-01.33.41:927][552]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2018.06.28-01.33.41:927][552]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2018.06.28-01.33.42:249][552]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 64X32)
+[2018.06.28-01.33.42:249][552]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 64X64)
+[2018.06.28-01.33.42:249][552]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 64X64)
+[2018.06.28-01.33.42:249][552]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 32X32)
+[2018.06.28-01.33.42:886][552]Lightmass on DESKTOP-P2C4SRV: 3.19 sec total, 319 ms importing, 28 ms setup, 371 ms photons, 1.36 sec processing, 0 ms extra exporting [1/1 mappings]. Threads: 5.42 sec total, 125 ms processing.
+[2018.06.28-01.33.42:994][552]LogStaticLightingSystem: Illumination: 1:02 min (55 ms encoding lightmaps, 92 ms encoding shadowmaps)
+[2018.06.28-01.33.42:994][552]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.06.28-01.33.42:994][552]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2018.06.28-01.33.43:185][552]DumpUnbuiltLightIteractions
+[2018.06.28-01.33.43:185][552]Lights with unbuilt interactions: 0
+[2018.06.28-01.33.43:185][552]
+[2018.06.28-01.33.43:185][552]Primitives with unbuilt interactions: 0
+[2018.06.28-01.33.43:896][553]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.06.28-01.33.43:897][553]MapCheck: New page: ProjetoPCS - Jun 27, 2018, 7:33:43 PM
+[2018.06.28-01.33.44:533][553]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 635.816ms to complete.
+[2018.06.28-01.33.59:623][716]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel' has LevelScriptBlueprint '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS' with GeneratedClass '/Game/ProjetoPCS.ProjetoPCS_C' with ClassGeneratedBy '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS'
+[2018.06.28-01.33.59:624][716]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.28-01.33.59:624][716]PIE: New page: SIE session: ProjetoPCS (Jun 27, 2018, 7:33:59 PM)
+[2018.06.28-01.33.59:624][716]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ProjetoPCS
+[2018.06.28-01.33.59:635][716]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011128s)
+[2018.06.28-01.33.59:636][716]LogAIModule: Creating AISystem for world ProjetoPCS
+[2018.06.28-01.33.59:636][716]LogPlayLevel: PIE: World Init took: (0.001048s)
+[2018.06.28-01.33.59:637][716]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProjetoPCS.ProjetoPCS to /Game/UEDPIE_0_ProjetoPCS.ProjetoPCS (0.012457s)
+[2018.06.28-01.33.59:666][716]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-01.33.59:693][716]LogInit: FAudioDevice initialized.
+[2018.06.28-01.33.59:747][716]LogLoad: Game class is 'FunctionalTestGameMode'
+[2018.06.28-01.33.59:768][716]LogWorld: Bringing World /Game/UEDPIE_0_ProjetoPCS.ProjetoPCS up for play (max tick rate 60) at 2018.06.27-22.33.59
+[2018.06.28-01.33.59:769][716]LogWorld: Bringing up level for play took: 0.021542
+[2018.06.28-01.33.59:769][716]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.06.28-01.33.59:793][716]PIE: Play in editor start time for /Game/UEDPIE_0_ProjetoPCS 0.734
+[2018.06.28-01.33.59:972][716]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel' has LevelScriptBlueprint '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS' with GeneratedClass '/Game/ProjetoPCS.ProjetoPCS_C' with ClassGeneratedBy '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS'
+[2018.06.28-01.34.01:903][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-01.34.02:029][751]LogBlueprintUserMessages: [Estrela_83] SAIU DA ESTRELA
+[2018.06.28-01.34.02:038][751]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel' has LevelScriptBlueprint '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS' with GeneratedClass '/Game/ProjetoPCS.ProjetoPCS_C' with ClassGeneratedBy '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS'
+[2018.06.28-01.34.02:308][751]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel' has LevelScriptBlueprint '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS' with GeneratedClass '/Game/ProjetoPCS.ProjetoPCS_C' with ClassGeneratedBy '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS'
+[2018.06.28-01.34.03:905][781]LogTemp: Repeating last play command: Simulate
+[2018.06.28-01.34.03:966][781]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel' has LevelScriptBlueprint '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS' with GeneratedClass '/Game/ProjetoPCS.ProjetoPCS_C' with ClassGeneratedBy '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS'
+[2018.06.28-01.34.03:966][781]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.28-01.34.03:966][781]PIE: New page: SIE session: ProjetoPCS (Jun 27, 2018, 7:34:03 PM)
+[2018.06.28-01.34.03:966][781]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ProjetoPCS
+[2018.06.28-01.34.03:982][781]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015848s)
+[2018.06.28-01.34.03:983][781]LogAIModule: Creating AISystem for world ProjetoPCS
+[2018.06.28-01.34.03:984][781]LogPlayLevel: PIE: World Init took: (0.001144s)
+[2018.06.28-01.34.03:984][781]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProjetoPCS.ProjetoPCS to /Game/UEDPIE_0_ProjetoPCS.ProjetoPCS (0.017345s)
+[2018.06.28-01.34.04:029][781]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-01.34.04:054][781]LogInit: FAudioDevice initialized.
+[2018.06.28-01.34.04:094][781]LogLoad: Game class is 'FunctionalTestGameMode'
+[2018.06.28-01.34.04:099][781]LogWorld: Bringing World /Game/UEDPIE_0_ProjetoPCS.ProjetoPCS up for play (max tick rate 60) at 2018.06.27-22.34.04
+[2018.06.28-01.34.04:100][781]LogWorld: Bringing up level for play took: 0.005131
+[2018.06.28-01.34.04:100][781]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.06.28-01.34.04:101][781]PIE: Play in editor start time for /Game/UEDPIE_0_ProjetoPCS 1.042
+[2018.06.28-01.34.04:104][781]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel' has LevelScriptBlueprint '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS' with GeneratedClass '/Game/ProjetoPCS.ProjetoPCS_C' with ClassGeneratedBy '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS'
+[2018.06.28-01.34.07:253][824]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-01.34.11:107][896]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-01.34.15:681][958]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.28-01.34.45:071][638]LogRenderer: Reallocating scene render targets to support 924x588 Format 10 NumSamples 1 (Frame:605).
+[2018.06.28-01.34.45:329][639]LogRenderer: Reallocating scene render targets to support 928x588 Format 10 NumSamples 1 (Frame:607).
+[2018.06.28-01.34.45:571][640]LogRenderer: Reallocating scene render targets to support 944x588 Format 10 NumSamples 1 (Frame:609).
+[2018.06.28-01.34.45:809][641]LogRenderer: Reallocating scene render targets to support 948x588 Format 10 NumSamples 1 (Frame:611).
+[2018.06.28-01.34.46:519][664]LogRenderer: Reallocating scene render targets to support 952x588 Format 10 NumSamples 1 (Frame:615).
+[2018.06.28-01.34.46:713][665]LogRenderer: Reallocating scene render targets to support 956x588 Format 10 NumSamples 1 (Frame:617).
+[2018.06.28-01.34.46:971][666]LogRenderer: Reallocating scene render targets to support 968x588 Format 10 NumSamples 1 (Frame:619).
+[2018.06.28-01.34.47:225][667]LogRenderer: Reallocating scene render targets to support 1000x588 Format 10 NumSamples 1 (Frame:621).
+[2018.06.28-01.34.47:450][668]LogRenderer: Reallocating scene render targets to support 1016x588 Format 10 NumSamples 1 (Frame:623).
+[2018.06.28-01.34.47:716][669]LogRenderer: Reallocating scene render targets to support 1032x588 Format 10 NumSamples 1 (Frame:625).
+[2018.06.28-01.34.47:864][670]LogRenderer: Reallocating scene render targets to support 1044x588 Format 10 NumSamples 1 (Frame:626).
+[2018.06.28-01.34.48:166][673]LogRenderer: Reallocating scene render targets to support 1048x588 Format 10 NumSamples 1 (Frame:628).
+[2018.06.28-01.34.48:566][675]LogRenderer: Reallocating scene render targets to support 1052x588 Format 10 NumSamples 1 (Frame:632).
+[2018.06.28-01.34.51:090][704]LogRenderer: Reallocating scene render targets to support 1072x588 Format 10 NumSamples 1 (Frame:667).
+[2018.06.28-01.34.51:304][705]LogRenderer: Reallocating scene render targets to support 1180x588 Format 10 NumSamples 1 (Frame:669).
+[2018.06.28-01.34.51:605][706]LogRenderer: Reallocating scene render targets to support 1244x588 Format 10 NumSamples 1 (Frame:671).
+[2018.06.28-01.34.51:876][707]LogRenderer: Reallocating scene render targets to support 1308x588 Format 10 NumSamples 1 (Frame:672).
+[2018.06.28-01.35.27:502][187]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel' has LevelScriptBlueprint '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS' with GeneratedClass '/Game/ProjetoPCS.ProjetoPCS_C' with ClassGeneratedBy '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS'
+[2018.06.28-01.35.27:625][187]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel' has LevelScriptBlueprint '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS' with GeneratedClass '/Game/ProjetoPCS.ProjetoPCS_C' with ClassGeneratedBy '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS'
+[2018.06.28-01.35.34:609][282]LogEditorViewport: Clicking on Actor (LMB): Player_2_C (Player2)
+[2018.06.28-01.35.41:303][368]LogEditorViewport: Clicking on Actor (LMB): Player_2_C (Player2)
+[2018.06.28-01.35.41:509][368]LogEditorViewport: Clicking on Component (LMB): TextRenderComponent (TextRender)
+[2018.06.28-01.35.56:825][552]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.06.28-01.35.58:373][569]LogEditorViewport: Clicking on Actor (LMB): Player_1_C (Player1)
+[2018.06.28-01.35.58:615][569]LogEditorViewport: Clicking on Component (LMB): TextRenderComponent (TextRender)
+[2018.06.28-01.36.01:827][612]LogEditorViewport: Clicking on Actor (LMB): Player_2_C (Player2)
+[2018.06.28-01.36.02:848][624]LogEditorViewport: Clicking on Actor (LMB): Player_2_C (Player2)
+[2018.06.28-01.36.03:051][624]LogEditorViewport: Clicking on Component (LMB): TextRenderComponent (TextRender)
+[2018.06.28-01.36.08:131][673]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-01.36.21:446][808]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.06.28-01.36.30:335][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-01.36.30:532][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjetoPCS" FILE="../../../../../../Users/LucianaHarada/Documents/GitHub/BumpAll/Projeto/Content/ProjetoPCS.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.28-01.36.30:745][918]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e79be19990, Size=24
+[2018.06.28-01.36.30:745][918]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e765beef38, Size=24, Default__ProjetoPCS_C Function /Engine/Transient.REINST_ProjetoPCS_C_121:ExecuteUbergraph_ProjetoPCS
+[2018.06.28-01.36.30:747][918]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e765becce8, Size=24, Default__ProjetoPCS_C Function /Game/ProjetoPCS.ProjetoPCS_C:ExecuteUbergraph_ProjetoPCS
+[2018.06.28-01.36.31:167][918]LogSavePackage: Save=430.06ms
+[2018.06.28-01.36.31:167][918]LogSavePackage: Moving '../../../../../../Users/LucianaHarada/Documents/GitHub/BumpAll/Projeto/Saved/ProjetoPCSC52DD5194D091BBD25D87FAD94D9ABE4.tmp' to '../../../../../../Users/LucianaHarada/Documents/GitHub/BumpAll/Projeto/Content/ProjetoPCS.umap'
+[2018.06.28-01.36.31:218][918]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/LucianaHarada/Documents/GitHub/BumpAll/Projeto/Content/ProjetoPCS.umap
+[2018.06.28-01.36.31:619][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjetoPCS_BuiltData" FILE="../../../../../../Users/LucianaHarada/Documents/GitHub/BumpAll/Projeto/Content/ProjetoPCS_BuiltData.uasset" SILENT=true
+[2018.06.28-01.36.31:791][918]LogSavePackage: Save=135.59ms
+[2018.06.28-01.36.31:792][918]LogSavePackage: Moving '../../../../../../Users/LucianaHarada/Documents/GitHub/BumpAll/Projeto/Saved/ProjetoPCS_BuiltDataBB59DFC44D77B2FBFBB9AFAED1870B2F.tmp' to '../../../../../../Users/LucianaHarada/Documents/GitHub/BumpAll/Projeto/Content/ProjetoPCS_BuiltData.uasset'
+[2018.06.28-01.36.31:798][918]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/LucianaHarada/Documents/GitHub/BumpAll/Projeto/Content/ProjetoPCS_BuiltData.uasset
+[2018.06.28-01.36.32:023][919]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.28-01.36.33:188][975]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel' has LevelScriptBlueprint '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS' with GeneratedClass '/Game/ProjetoPCS.ProjetoPCS_C' with ClassGeneratedBy '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS'
+[2018.06.28-01.36.33:188][975]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.28-01.36.33:188][975]PIE: New page: PIE session: ProjetoPCS (Jun 27, 2018, 7:36:33 PM)
+[2018.06.28-01.36.33:189][975]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ProjetoPCS
+[2018.06.28-01.36.33:202][975]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013187s)
+[2018.06.28-01.36.33:203][975]LogAIModule: Creating AISystem for world ProjetoPCS
+[2018.06.28-01.36.33:203][975]LogPlayLevel: PIE: World Init took: (0.001276s)
+[2018.06.28-01.36.33:203][975]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProjetoPCS.ProjetoPCS to /Game/UEDPIE_0_ProjetoPCS.ProjetoPCS (0.014755s)
+[2018.06.28-01.36.33:260][975]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e765beef38, Size=24
+[2018.06.28-01.36.33:264][975]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-01.36.33:319][975]LogInit: FAudioDevice initialized.
+[2018.06.28-01.36.33:319][975]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.28-01.36.33:364][975]LogLoad: Game class is 'FunctionalTestGameMode'
+[2018.06.28-01.36.33:371][975]LogWorld: Bringing World /Game/UEDPIE_0_ProjetoPCS.ProjetoPCS up for play (max tick rate 60) at 2018.06.27-22.36.33
+[2018.06.28-01.36.33:372][975]LogWorld: Bringing up level for play took: 0.007151
+[2018.06.28-01.36.33:373][975]PIE: Play in editor start time for /Game/UEDPIE_0_ProjetoPCS 0.314
+[2018.06.28-01.36.33:374][975]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel' has LevelScriptBlueprint '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS' with GeneratedClass '/Game/ProjetoPCS.ProjetoPCS_C' with ClassGeneratedBy '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS'
+[2018.06.28-01.36.37:221][ 40]LogBlueprintUserMessages: [Estrela_83] SAIU DA ESTRELA
+[2018.06.28-01.36.41:389][113]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel' has LevelScriptBlueprint '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS' with GeneratedClass '/Game/ProjetoPCS.ProjetoPCS_C' with ClassGeneratedBy '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS'
+[2018.06.28-01.36.41:519][113]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel' has LevelScriptBlueprint '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS' with GeneratedClass '/Game/ProjetoPCS.ProjetoPCS_C' with ClassGeneratedBy '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS'
+[2018.06.28-01.36.48:110][200]LogEditorViewport: Clicking on Actor (LMB): Player_1_C (Player1)
+[2018.06.28-01.36.55:710][299]LogEditorViewport: Clicking on Actor (LMB): Player_1_C (Player1)
+[2018.06.28-01.36.55:936][299]LogEditorViewport: Clicking on Component (LMB): TextRenderComponent (TextRender)
+[2018.06.28-01.37.01:205][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-01.37.18:178][576]LogEditorViewport: Clicking on Component (LMB): TextRenderComponent (TextPoints)
+[2018.06.28-01.37.18:402][576]LogEditorViewport: Clicking on Actor (double click): Player_1_C (Player1)
+[2018.06.28-01.37.21:066][613]LogEditorViewport: Clicking on Actor (LMB): Player_2_C (Player2)
+[2018.06.28-01.37.22:835][635]LogEditorViewport: Clicking on Actor (LMB): Player_2_C (Player2)
+[2018.06.28-01.37.23:070][635]LogEditorViewport: Clicking on Component (LMB): TextRenderComponent (TextRender)
+[2018.06.28-01.37.29:740][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-01.37.39:658][827]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.06.28-01.37.55:908][ 26]LogEditorViewport: Clicking on Actor (LMB): Player_2_C (Player2)
+[2018.06.28-01.37.56:149][ 26]LogEditorViewport: Clicking on Component (LMB): TextRenderComponent (TextPoints)
+[2018.06.28-01.38.00:750][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-01.38.13:962][206]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.06.28-01.38.15:108][219]LogEditorViewport: Clicking on Actor (LMB): Player_1_C (Player1)
+[2018.06.28-01.38.15:341][219]LogEditorViewport: Clicking on Component (LMB): TextRenderComponent (TextPoints)
+[2018.06.28-01.38.16:966][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-01.38.26:671][357]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.06.28-01.38.38:534][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-01.39.01:844][694]LogBlueprintUserMessages: [Estrela_C_152] SAIU DA ESTRELA
+[2018.06.28-01.39.51:076][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Estrela" FILE="../../../../../../Users/LucianaHarada/Documents/GitHub/BumpAll/Projeto/Content/Estrela.uasset" SILENT=true
+[2018.06.28-01.39.51:348][101]LogSavePackage: Save=223.48ms
+[2018.06.28-01.39.51:348][101]LogSavePackage: Moving '../../../../../../Users/LucianaHarada/Documents/GitHub/BumpAll/Projeto/Saved/Estrela3A3CE3AB4F346D69DEB0298B798487F3.tmp' to '../../../../../../Users/LucianaHarada/Documents/GitHub/BumpAll/Projeto/Content/Estrela.uasset'
+[2018.06.28-01.39.51:401][101]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/LucianaHarada/Documents/GitHub/BumpAll/Projeto/Content/Estrela.uasset
+[2018.06.28-01.39.51:954][108]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-01.39.52:070][109]BlueprintLog: New page: Compile Estrela
+[2018.06.28-01.39.52:180][109]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e762463880, Size=264
+[2018.06.28-01.39.52:181][109]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e7cee4ae80, Size=264, Default__Estrela_C Function /Engine/Transient.REINST_Estrela_C_125:ExecuteUbergraph_Estrela
+[2018.06.28-01.39.52:213][109]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e7cee4b740, Size=264, Default__Estrela_C Function /Game/Estrela.Estrela_C:ExecuteUbergraph_Estrela
+[2018.06.28-01.39.54:458][120]LogSlate: Window 'Estrela' being destroyed
+[2018.06.28-01.39.56:511][145]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-01.39.56:652][147]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.28-01.39.56:780][147]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel' has LevelScriptBlueprint '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS' with GeneratedClass '/Game/ProjetoPCS.ProjetoPCS_C' with ClassGeneratedBy '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS'
+[2018.06.28-01.39.56:781][147]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.28-01.39.56:781][147]PIE: New page: PIE session: ProjetoPCS (Jun 27, 2018, 7:39:56 PM)
+[2018.06.28-01.39.56:781][147]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ProjetoPCS
+[2018.06.28-01.39.56:799][147]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017660s)
+[2018.06.28-01.39.56:800][147]LogAIModule: Creating AISystem for world ProjetoPCS
+[2018.06.28-01.39.56:800][147]LogPlayLevel: PIE: World Init took: (0.001318s)
+[2018.06.28-01.39.56:801][147]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProjetoPCS.ProjetoPCS to /Game/UEDPIE_0_ProjetoPCS.ProjetoPCS (0.019382s)
+[2018.06.28-01.39.56:843][147]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e7cee4ae80, Size=264
+[2018.06.28-01.39.56:848][147]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-01.39.56:888][147]LogInit: FAudioDevice initialized.
+[2018.06.28-01.39.56:929][147]LogLoad: Game class is 'FunctionalTestGameMode'
+[2018.06.28-01.39.56:935][147]LogWorld: Bringing World /Game/UEDPIE_0_ProjetoPCS.ProjetoPCS up for play (max tick rate 60) at 2018.06.27-22.39.56
+[2018.06.28-01.39.56:936][147]LogWorld: Bringing up level for play took: 0.006676
+[2018.06.28-01.39.56:938][147]PIE: Play in editor start time for /Game/UEDPIE_0_ProjetoPCS -0.121
+[2018.06.28-01.39.56:938][147]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel' has LevelScriptBlueprint '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS' with GeneratedClass '/Game/ProjetoPCS.ProjetoPCS_C' with ClassGeneratedBy '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS'
+[2018.06.28-01.40.03:792][294]LogBlueprintUserMessages: [Estrela_83] SAIU DA ESTRELA
+[2018.06.28-01.40.06:815][361]LogBlueprintUserMessages: [Estrela_83] SAIU DA ESTRELA
+[2018.06.28-01.40.13:793][516]LogBlueprintUserMessages: [Estrela_83] SAIU DA ESTRELA
+[2018.06.28-01.40.20:263][659]LogBlueprintUserMessages: [Estrela_83] SAIU DA ESTRELA
+[2018.06.28-01.41.04:974][637]LogBlueprintUserMessages: [Estrela_83] SAIU DA ESTRELA
+[2018.06.28-01.41.21:626][  1]LogBlueprintUserMessages: [Estrela_83] SAIU DA ESTRELA
+[2018.06.28-01.41.30:138][187]LogBlueprintUserMessages: [Estrela_83] SAIU DA ESTRELA
+[2018.06.28-01.41.33:454][259]LogBlueprintUserMessages: [Estrela_83] SAIU DA ESTRELA
+[2018.06.28-01.41.34:549][283]LogBlueprintUserMessages: [Estrela_83] SAIU DA ESTRELA
+[2018.06.28-01.41.43:268][475]LogBlueprintUserMessages: [Estrela_83] SAIU DA ESTRELA
+[2018.06.28-01.41.47:056][559]LogBlueprintUserMessages: [Estrela_83] SAIU DA ESTRELA
+[2018.06.28-01.42.00:881][865]LogBlueprintUserMessages: [Estrela_83] SAIU DA ESTRELA
+[2018.06.28-01.42.13:605][146]LogBlueprintUserMessages: [Estrela_83] SAIU DA ESTRELA
+[2018.06.28-01.42.40:073][735]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel' has LevelScriptBlueprint '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS' with GeneratedClass '/Game/ProjetoPCS.ProjetoPCS_C' with ClassGeneratedBy '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS'
+[2018.06.28-01.42.40:188][735]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel' has LevelScriptBlueprint '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS' with GeneratedClass '/Game/ProjetoPCS.ProjetoPCS_C' with ClassGeneratedBy '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS'
+[2018.06.28-01.42.43:177][782]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-01.43.02:825][ 91]Cmd: SELECT NONE
+[2018.06.28-01.43.03:068][ 95]Cmd: SELECT NONE
+[2018.06.28-01.44.41:426][621]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.28-01.44.41:532][621]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel' has LevelScriptBlueprint '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS' with GeneratedClass '/Game/ProjetoPCS.ProjetoPCS_C' with ClassGeneratedBy '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS'
+[2018.06.28-01.44.41:532][621]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.28-01.44.41:533][621]PIE: New page: PIE session: ProjetoPCS (Jun 27, 2018, 7:44:41 PM)
+[2018.06.28-01.44.41:533][621]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ProjetoPCS
+[2018.06.28-01.44.41:553][621]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019881s)
+[2018.06.28-01.44.41:554][621]LogAIModule: Creating AISystem for world ProjetoPCS
+[2018.06.28-01.44.41:555][621]LogPlayLevel: PIE: World Init took: (0.001541s)
+[2018.06.28-01.44.41:555][621]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProjetoPCS.ProjetoPCS to /Game/UEDPIE_0_ProjetoPCS.ProjetoPCS (0.021808s)
+[2018.06.28-01.44.41:606][621]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-01.44.41:654][621]LogInit: FAudioDevice initialized.
+[2018.06.28-01.44.41:697][621]LogLoad: Game class is 'FunctionalTestGameMode'
+[2018.06.28-01.44.41:705][621]LogWorld: Bringing World /Game/UEDPIE_0_ProjetoPCS.ProjetoPCS up for play (max tick rate 60) at 2018.06.27-22.44.41
+[2018.06.28-01.44.41:706][621]LogWorld: Bringing up level for play took: 0.008602
+[2018.06.28-01.44.41:708][621]PIE: Play in editor start time for /Game/UEDPIE_0_ProjetoPCS 0.649
+[2018.06.28-01.44.41:709][621]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel' has LevelScriptBlueprint '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS' with GeneratedClass '/Game/ProjetoPCS.ProjetoPCS_C' with ClassGeneratedBy '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS'
+[2018.06.28-01.44.48:756][771]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel' has LevelScriptBlueprint '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS' with GeneratedClass '/Game/ProjetoPCS.ProjetoPCS_C' with ClassGeneratedBy '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS'
+[2018.06.28-01.44.48:873][771]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel' has LevelScriptBlueprint '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS' with GeneratedClass '/Game/ProjetoPCS.ProjetoPCS_C' with ClassGeneratedBy '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS'
+[2018.06.28-01.44.49:833][785]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-01.45.22:121][282]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.28-01.45.22:249][282]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel' has LevelScriptBlueprint '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS' with GeneratedClass '/Game/ProjetoPCS.ProjetoPCS_C' with ClassGeneratedBy '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS'
+[2018.06.28-01.45.22:250][282]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.28-01.45.22:250][282]PIE: New page: PIE session: ProjetoPCS (Jun 27, 2018, 7:45:22 PM)
+[2018.06.28-01.45.22:291][282]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ProjetoPCS
+[2018.06.28-01.45.22:307][282]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015733s)
+[2018.06.28-01.45.22:308][282]LogAIModule: Creating AISystem for world ProjetoPCS
+[2018.06.28-01.45.22:308][282]LogPlayLevel: PIE: World Init took: (0.001156s)
+[2018.06.28-01.45.22:308][282]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProjetoPCS.ProjetoPCS to /Game/UEDPIE_0_ProjetoPCS.ProjetoPCS (0.017240s)
+[2018.06.28-01.45.22:346][282]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-01.45.22:390][282]LogInit: FAudioDevice initialized.
+[2018.06.28-01.45.22:433][282]LogLoad: Game class is 'FunctionalTestGameMode'
+[2018.06.28-01.45.22:440][282]LogWorld: Bringing World /Game/UEDPIE_0_ProjetoPCS.ProjetoPCS up for play (max tick rate 60) at 2018.06.27-22.45.22
+[2018.06.28-01.45.22:441][282]LogWorld: Bringing up level for play took: 0.007666
+[2018.06.28-01.45.22:444][282]PIE: Play in editor start time for /Game/UEDPIE_0_ProjetoPCS -0.615
+[2018.06.28-01.45.22:444][282]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel' has LevelScriptBlueprint '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS' with GeneratedClass '/Game/ProjetoPCS.ProjetoPCS_C' with ClassGeneratedBy '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS'
+[2018.06.28-01.45.29:806][434]LogBlueprintUserMessages: [Estrela_83] SAIU DA ESTRELA
+[2018.06.28-01.45.33:857][520]LogBlueprintUserMessages: [Estrela_83] SAIU DA ESTRELA
+[2018.06.28-01.46.11:719][315]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel' has LevelScriptBlueprint '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS' with GeneratedClass '/Game/ProjetoPCS.ProjetoPCS_C' with ClassGeneratedBy '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS'
+[2018.06.28-01.46.11:820][315]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel' has LevelScriptBlueprint '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS' with GeneratedClass '/Game/ProjetoPCS.ProjetoPCS_C' with ClassGeneratedBy '/Game/ProjetoPCS.ProjetoPCS:PersistentLevel.ProjetoPCS'
+[2018.06.28-01.46.22:350][471]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-01.46.38:395][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Estrela" FILE="../../../../../../Users/LucianaHarada/Documents/GitHub/BumpAll/Projeto/Content/Estrela.uasset" SILENT=true
+[2018.06.28-01.46.38:532][656]LogSavePackage: Save=81.18ms
+[2018.06.28-01.46.38:532][656]LogSavePackage: Moving '../../../../../../Users/LucianaHarada/Documents/GitHub/BumpAll/Projeto/Saved/Estrela47B03195499791F2C2C93DAB92A4B7C8.tmp' to '../../../../../../Users/LucianaHarada/Documents/GitHub/BumpAll/Projeto/Content/Estrela.uasset'
+[2018.06.28-01.46.38:536][656]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/LucianaHarada/Documents/GitHub/BumpAll/Projeto/Content/Estrela.uasset
+[2018.06.28-01.46.39:085][664]Cmd: SELECT NONE
+[2018.06.28-01.46.46:301][748]LogSlate: Window 'Estrela' being destroyed
+[2018.06.28-01.46.46:326][748]LogSlate: Window 'Estrela' being destroyed
+[2018.06.28-01.46.46:327][748]LogBlueprintUserMessages: [Estrela_C_284] SAIU DA ESTRELA
+[2018.06.28-01.48.06:006][725]LogSlate: Window 'Player_1' being destroyed
+[2018.06.28-01.48.08:804][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjetoPCS" FILE="../../../../../../Users/LucianaHarada/Documents/GitHub/BumpAll/Projeto/Content/ProjetoPCS.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.28-01.48.08:867][761]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e765becce8, Size=24
+[2018.06.28-01.48.08:867][761]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e7660bf610, Size=24, Default__ProjetoPCS_C Function /Engine/Transient.REINST_ProjetoPCS_C_129:ExecuteUbergraph_ProjetoPCS
+[2018.06.28-01.48.08:868][761]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e7660bfc40, Size=24, Default__ProjetoPCS_C Function /Game/ProjetoPCS.ProjetoPCS_C:ExecuteUbergraph_ProjetoPCS
+[2018.06.28-01.48.09:126][761]LogSavePackage: Save=267.28ms
+[2018.06.28-01.48.09:126][761]LogSavePackage: Moving '../../../../../../Users/LucianaHarada/Documents/GitHub/BumpAll/Projeto/Saved/ProjetoPCS86DF956B423D8DE342D5C7AA5570C1B6.tmp' to '../../../../../../Users/LucianaHarada/Documents/GitHub/BumpAll/Projeto/Content/ProjetoPCS.umap'
+[2018.06.28-01.48.09:132][761]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/LucianaHarada/Documents/GitHub/BumpAll/Projeto/Content/ProjetoPCS.umap
+[2018.06.28-01.48.09:172][761]LogFileHelpers: Saving map 'ProjetoPCS' took 0.577
+[2018.06.28-01.48.14:486][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjetoPCS" FILE="../../../../../../Users/LucianaHarada/Documents/GitHub/BumpAll/Projeto/Content/ProjetoPCS.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.28-01.48.14:534][846]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e7660bf610, Size=24
+[2018.06.28-01.48.14:581][846]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e7660bfc40, Size=24
+[2018.06.28-01.48.14:582][846]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e78d622578, Size=24, Default__ProjetoPCS_C Function /Engine/Transient.REINST_ProjetoPCS_C_133:ExecuteUbergraph_ProjetoPCS
+[2018.06.28-01.48.14:584][846]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e78d620e08, Size=24, Default__ProjetoPCS_C Function /Game/ProjetoPCS.ProjetoPCS_C:ExecuteUbergraph_ProjetoPCS
+[2018.06.28-01.48.14:872][846]LogSavePackage: Save=299.02ms
+[2018.06.28-01.48.14:872][846]LogSavePackage: Moving '../../../../../../Users/LucianaHarada/Documents/GitHub/BumpAll/Projeto/Saved/ProjetoPCS46A470EA44DCD3C2B2E6FABE3DB59D19.tmp' to '../../../../../../Users/LucianaHarada/Documents/GitHub/BumpAll/Projeto/Content/ProjetoPCS.umap'
+[2018.06.28-01.48.14:877][846]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/LucianaHarada/Documents/GitHub/BumpAll/Projeto/Content/ProjetoPCS.umap
+[2018.06.28-01.48.14:910][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjetoPCS_BuiltData" FILE="../../../../../../Users/LucianaHarada/Documents/GitHub/BumpAll/Projeto/Content/ProjetoPCS_BuiltData.uasset" SILENT=true
+[2018.06.28-01.48.14:937][846]LogSavePackage: Save=6.97ms
+[2018.06.28-01.48.14:937][846]LogSavePackage: Moving '../../../../../../Users/LucianaHarada/Documents/GitHub/BumpAll/Projeto/Saved/ProjetoPCS_BuiltDataE218BE1440BC7D6EAE513C89265DA4C1.tmp' to '../../../../../../Users/LucianaHarada/Documents/GitHub/BumpAll/Projeto/Content/ProjetoPCS_BuiltData.uasset'
+[2018.06.28-01.48.14:939][846]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/LucianaHarada/Documents/GitHub/BumpAll/Projeto/Content/ProjetoPCS_BuiltData.uasset
